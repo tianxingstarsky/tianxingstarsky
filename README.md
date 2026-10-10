@@ -29,16 +29,20 @@ The scope is broad. The loop is simple: **ask, build, measure, repeat**.
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=FFD43B" height="20" alt="Python">
   <img src="https://img.shields.io/badge/C-283548?style=flat&amp;logo=c&amp;logoColor=A8B9CC" height="20" alt="C">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" height="20" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" height="20" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Rust-31363B?style=flat&amp;logo=rust&amp;logoColor=white" height="20" alt="Rust">
 </p>
 
 <p>
-  <b>Robotics &amp; Machine Learning</b><br>
+  <b>Robotics, ML &amp; Compute</b><br>
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat&amp;logo=ros&amp;logoColor=white" height="20" alt="ROS">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" height="20" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=tensorflow&amp;logoColor=white" height="20" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat&amp;logo=nvidia&amp;logoColor=white" height="20" alt="CUDA">
+  <img src="https://img.shields.io/badge/CANN-C8102E?style=flat&amp;logo=huawei&amp;logoColor=white" height="20" alt="CANN">
 </p>
 
-Systems, interfaces, robotics, and deep learning. The occasional rabbit hole comes with the territory.
+Systems, interfaces, robotics, deep learning, and accelerated computing. The occasional rabbit hole comes with the territory.
 
 ## Every Good Hypothesis Deserves a Repository
 
