@@ -88,69 +88,7 @@ function hero(theme) {
   </g>`);
 }
 
-function research(theme) {
-  const c = palettes[theme];
-  return shell(1200, 222, 'The Blueprints / The Data / The Playground', 'DLES and the BIM series. Over 100 billion data records as of October 2026. Hardware, software, algorithms, and models.', `
-  <rect x="1" y="1" width="1198" height="220" rx="24" fill="${c.panel}" stroke="${c.line}"/>
-  <path d="M401 37v148m398-148v148" stroke="${c.line}"/>
-  <g font-family="${font}">
-    <g transform="translate(37 32)"><circle cx="12" cy="12" r="10" fill="none" stroke="${c.mint}" stroke-width="2"/><circle cx="12" cy="12" r="3" fill="${c.mint}"/><path d="M12-3v6m0 18v6m-15-15h6m18 0h6" stroke="${c.mint}" stroke-width="2"/></g>
-    <text x="77" y="52" font-family="${mono}" font-size="18" letter-spacing="1" fill="${c.muted}">THE BLUEPRINTS</text>
-    <text x="37" y="125" font-family="${mono}" font-size="43" font-weight="700" fill="${c.text}">DLES · BIM</text>
-    <text x="38" y="174" font-size="20" fill="${c.mint}">AI paradigm research</text>
-    <g transform="translate(438 32)" fill="none" stroke="${c.mint}" stroke-width="2"><ellipse cx="13" cy="5" rx="12" ry="5"/><path d="M1 5v16c0 7 24 7 24 0V5M1 13c0 7 24 7 24 0"/></g>
-    <text x="478" y="52" font-family="${mono}" font-size="18" letter-spacing="1" fill="${c.muted}">THE DATA</text>
-    <text x="438" y="125" font-family="${mono}" font-size="53" font-weight="700" fill="${c.text}">100B+</text>
-    <text x="637" y="121" font-size="25" fill="${c.text}">records</text>
-    <text x="439" y="174" font-size="19" fill="${c.mint}">Company data assets · Oct 2026</text>
-    <g transform="translate(838 33)" fill="none" stroke="${c.mint}" stroke-width="2"><rect x="2" y="2" width="22" height="22" rx="3"/><path d="M8-3v5m10-5v5M8 24v5m10-5v5M-3 8h5m-5 10h5m22-10h5m-5 10h5"/><rect x="8" y="8" width="10" height="10" rx="1"/></g>
-    <text x="879" y="52" font-family="${mono}" font-size="18" letter-spacing="1" fill="${c.muted}">THE PLAYGROUND</text>
-    <text x="838" y="123" font-size="43" font-weight="700" fill="${c.text}">Bits × Boards</text>
-    <text x="839" y="174" font-size="20" fill="${c.mint}">Hardware · Software · AI</text>
-  </g>`);
-}
-
-function researchMobile(theme) {
-  const c = palettes[theme];
-  return shell(600, 326, 'DLES · BIM / 100B+ records / Bits × Boards', 'Representative architectures: DLES and the BIM series. Data assets: over 100 billion records as of October 2026. Hardware, software, algorithms, and models.', `
-  <rect x="1" y="1" width="598" height="324" rx="24" fill="${c.panel}" stroke="${c.line}"/>
-  <path d="M300 24v159M25 203h550" stroke="${c.line}"/>
-  <g font-family="${font}">
-    <text x="25" y="48" font-family="${mono}" font-size="22" fill="${c.muted}">THE BLUEPRINTS</text>
-    <text x="24" y="107" font-family="${mono}" font-size="39" font-weight="700" fill="${c.text}">DLES · BIM</text>
-    <text x="25" y="157" font-size="22" fill="${c.mint}">Paradigm research</text>
-    <text x="325" y="48" font-family="${mono}" font-size="22" fill="${c.muted}">THE DATA</text>
-    <text x="324" y="109" font-family="${mono}" font-size="45" font-weight="700" fill="${c.text}">100B+</text>
-    <text x="483" y="106" font-size="23" fill="${c.text}">records</text>
-    <text x="325" y="157" font-size="21" fill="${c.mint}">Data assets · Oct 2026</text>
-    <text x="25" y="252" font-size="31" font-weight="700" fill="${c.text}">Bits × Boards</text>
-    <text x="26" y="297" font-size="23" fill="${c.mint}">Hardware · Software · Algorithms · Models</text>
-  </g>`);
-}
-
-function languages(mobile = false) {
-  const groups = [
-    { x: 0, fill: '#d9ecfa', color: '#204c70', label: 'C++', glyph: '{ }' },
-    { x: 205, fill: '#dff4e9', color: '#245c49', label: 'Python', glyph: 'Py' },
-    { x: 410, fill: '#e9e6f7', color: '#52447b', label: 'C', glyph: 'C' },
-    { x: 615, fill: '#faf0d4', color: '#756025', label: 'JavaScript', glyph: 'JS' },
-  ];
-  const width = mobile ? 600 : 800;
-  const height = mobile ? 178 : 86;
-  return shell(width, height, 'C++ · Python · C · JavaScript', 'My everyday programming languages.', groups.map((g,i)=>`
-    <g transform="translate(${mobile ? (i%2)*310 : g.x} ${mobile ? Math.floor(i/2)*94+2 : 5})">
-      <rect width="${mobile?290:185}" height="76" rx="15" fill="${g.fill}"/>
-      <rect x="${mobile?20:12}" y="18" width="38" height="38" rx="10" fill="${g.color}"/>
-      <text x="${mobile?39:31}" y="43" text-anchor="middle" fill="${g.fill}" font-family="${mono}" font-size="17" font-weight="700">${g.glyph}</text>
-      <text x="${mobile?79:62}" y="46" fill="${g.color}" font-family="${mono}" font-size="${mobile?27:g.label==='JavaScript'?18:23}" font-weight="700">${g.label}</text>
-    </g>`).join(''));
-}
-
 for (const theme of Object.keys(palettes)) {
   fs.writeFileSync(path.join(output, `hero-${theme}.svg`), hero(theme), 'utf8');
-  fs.writeFileSync(path.join(output, `research-${theme}.svg`), research(theme), 'utf8');
-  fs.writeFileSync(path.join(output, `research-mobile-${theme}.svg`), researchMobile(theme), 'utf8');
 }
-fs.writeFileSync(path.join(output, 'languages.svg'), languages(), 'utf8');
-fs.writeFileSync(path.join(output, 'languages-mobile.svg'), languages(true), 'utf8');
-console.log('Generated eight standalone SVG assets.');
+console.log('Generated two theme variants for the single profile banner.');

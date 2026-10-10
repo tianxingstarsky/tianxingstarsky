@@ -21,34 +21,28 @@ The scope is broad. The loop is simple: **ask, build, measure, repeat**.
 
 **DLES** and the **BIM series** are representative architectures in our research. Alongside that exploration, we're building the data foundation for model training: **100B+ records in company data assets**, as of **October 2026**.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/research-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/research-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/research-light.svg">
-  <img src="assets/research-light.svg" width="1200" alt="The blueprints: DLES and BIM. The data: more than 100 billion records as of October 2026. The playground: hardware, software, and AI.">
-</picture>
+## A Few Tools, Many Rabbit Holes
 
-## Four Languages, Many Rabbit Holes
-
-My usual toolkit: **C++ · Python · C · JavaScript**. The occasional rabbit hole comes with the territory.
-
-<p align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/languages-mobile.svg">
-    <img src="assets/languages.svg" width="800" alt="Everyday programming languages: C++, Python, C, and JavaScript.">
-  </picture>
+<p>
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" height="20" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=FFD43B" height="20" alt="Python">
+  <img src="https://img.shields.io/badge/C-283548?style=flat&amp;logo=c&amp;logoColor=A8B9CC" height="20" alt="C">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E" height="20" alt="JavaScript">
 </p>
 
-```python
-while curiosity:
-    idea = ask("what if?")
-    result = build_and_test(idea)
-    # negative results count, too
-    learn(result)
-```
+<p>
+  <b>Robotics &amp; Machine Learning</b><br>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&amp;logo=ros&amp;logoColor=white" height="20" alt="ROS">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&amp;logo=pytorch&amp;logoColor=white" height="20" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&amp;logo=tensorflow&amp;logoColor=white" height="20" alt="TensorFlow">
+</p>
+
+Systems, interfaces, robotics, and deep learning. The occasional rabbit hole comes with the territory.
 
 ## Every Good Hypothesis Deserves a Repository
+
+We plan to open-source **efficient, useful, and fun industry tools**, alongside **selected models, algorithms, and trained weights**, as they become ready to share. Good ideas should be easy to try, adapt, and build on.
 
 **[ShuJian Cube: Turning Context into Training Data](https://github.com/tianxingstarsky/Super-LLM-distill-Gen)**<br>
 Documents, agent conversations, and creative briefs become training examples through a visual workflow, human review, and export.
