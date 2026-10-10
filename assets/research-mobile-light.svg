@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="326" viewBox="0 0 600 326" role="img" aria-labelledby="title desc"><title id="title">DLES · BIM / 100B+ 条 / 软硬件 × AI</title><desc id="desc">Representative architectures: DLES and the BIM series. Data assets: over 100 billion records as of October 2026. Hardware, software, algorithms, and models.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="326" viewBox="0 0 600 326" role="img" aria-labelledby="title desc"><title id="title">DLES · BIM / 100B+ records / Bits × Boards</title><desc id="desc">Representative architectures: DLES and the BIM series. Data assets: over 100 billion records as of October 2026. Hardware, software, algorithms, and models.</desc>
   <rect x="1" y="1" width="598" height="324" rx="24" fill="#f7fcfa" stroke="#b2d5cc"/>
   <path d="M300 24v159M25 203h550" stroke="#b2d5cc"/>
   <g font-family="Segoe UI,Microsoft YaHei,PingFang SC,Arial,sans-serif">
-    <text x="25" y="48" font-size="24" fill="#476477">代表架构</text>
+    <text x="25" y="48" font-family="Consolas,Menlo,monospace" font-size="22" fill="#476477">THE BLUEPRINTS</text>
     <text x="24" y="107" font-family="Consolas,Menlo,monospace" font-size="39" font-weight="700" fill="#17334b">DLES · BIM</text>
-    <text x="25" y="157" font-size="23" fill="#176c59">AI 范式创新</text>
-    <text x="325" y="48" font-size="24" fill="#476477">数据资产</text>
+    <text x="25" y="157" font-size="22" fill="#176c59">Paradigm research</text>
+    <text x="325" y="48" font-family="Consolas,Menlo,monospace" font-size="22" fill="#476477">THE DATA</text>
     <text x="324" y="109" font-family="Consolas,Menlo,monospace" font-size="45" font-weight="700" fill="#17334b">100B+</text>
-    <text x="483" y="106" font-size="27" fill="#17334b">条</text>
-    <text x="325" y="157" font-size="23" fill="#176c59">更新于 2026.10</text>
-    <text x="25" y="252" font-size="31" font-weight="700" fill="#17334b">软硬件 × AI</text>
-    <text x="26" y="297" font-size="23" fill="#176c59">硬件 · 软件 · 算法 · 模型训练与研发</text>
+    <text x="483" y="106" font-size="23" fill="#17334b">records</text>
+    <text x="325" y="157" font-size="21" fill="#176c59">Data assets · Oct 2026</text>
+    <text x="25" y="252" font-size="31" font-weight="700" fill="#17334b">Bits × Boards</text>
+    <text x="26" y="297" font-size="23" fill="#176c59">Hardware · Software · Algorithms · Models</text>
   </g></svg>
