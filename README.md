@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img src="assets/hero-light.svg" width="1200" alt="From C to the Moon: A Founder's Notes on Building Intelligence. A small astronaut writes code on a magenta moon beneath a deep crimson sky.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-crimson-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-crimson-light.svg">
+  <img src="assets/hero-crimson-light.svg" width="1200" alt="From C to the Moon: A Founder's Notes on Building Intelligence. A small astronaut writes code on a magenta moon beneath a deep crimson sky.">
 </picture>
 
 <p align="center">
@@ -58,11 +58,11 @@ Connect local inference to your own cloud gateway, with an OpenAI-compatible API
 A hybrid architecture experiment bringing convolutional embeddings, Mamba2, and Transformer together. Training workflows, ablations, and comparison results included — even the plot twists.
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/activity-mobile-dark.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="assets/activity-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
-  <img src="assets/activity-light.svg" width="1000" alt="Small Commits, Long Tails: real GitHub contributions, with a bright front moving right and magenta particles trailing left.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/activity-comet-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="assets/activity-comet-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-comet-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-comet-light.svg">
+  <img src="assets/activity-comet-light.svg" width="1000" alt="Small Commits, Long Tails: the latest commit is a comet's head, with a curling magenta wake flowing left and lighting older contribution cells.">
 </picture>
 
 <details>

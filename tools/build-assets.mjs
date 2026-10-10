@@ -89,6 +89,6 @@ function hero(theme) {
 }
 
 for (const theme of Object.keys(palettes)) {
-  fs.writeFileSync(path.join(output, `hero-${theme}.svg`), hero(theme), 'utf8');
+  fs.writeFileSync(path.join(output, `hero-crimson-${theme}.svg`), hero(theme), 'utf8');
 }
 console.log('Generated two theme variants for the single profile banner.');
