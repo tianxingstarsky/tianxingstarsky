@@ -1,0 +1,4 @@
+/.preview/
+/.qa/
+/.publish/
+/tools/preview.mjs

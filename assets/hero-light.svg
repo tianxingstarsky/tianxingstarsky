@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc"><title id="title">糖霜薄荷 · 月上之穹 AI 实验站</title><desc id="desc">Founder, Builder, AI Paradigm Explorer. A mint-colored astronaut writes code on the moon above a sea of circuits.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1"><stop stop-color="#eaf8f2"/><stop offset="1" stop-color="#e6f0fb"/></linearGradient>
+    <linearGradient id="moon" x2=".3" y2="1"><stop stop-color="#e5fff1"/><stop offset="1" stop-color="#83cbb3"/></linearGradient>
+    <linearGradient id="visor" x2="1" y2="1"><stop stop-color="#244452"/><stop offset="1" stop-color="#102135"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#77dcb8" stop-opacity=".25"/><stop offset="1" stop-color="#77dcb8" stop-opacity="0"/></radialGradient>
+    <clipPath id="round"><rect width="1200" height="440" rx="28"/></clipPath>
+    <clipPath id="moonClip"><circle cx="941" cy="319" r="94"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="440" fill="url(#background)"/>
+    <circle cx="947" cy="212" r="248" fill="url(#halo)"/>
+    <g fill="none" stroke="#b2d5cc" opacity=".42">
+      <path d="M0 369 Q155 333 300 370 T610 365 T926 369 T1240 363"/>
+      <path d="M0 387 Q150 350 308 388 T625 383 T942 387 T1240 381"/>
+      <path d="M0 405 Q151 369 303 405 T622 402 T942 405 T1240 399"/>
+      <path d="M660 62 L750 117 L808 68 L892 103 L1026 72 L1119 122"/>
+    </g>
+    <g fill="#176c59"><circle cx="700" cy="60" r="2" opacity=".66"/><circle cx="786" cy="99" r="3" opacity=".66"/><circle cx="1092" cy="63" r="2" opacity=".66"/><circle cx="1152" cy="156" r="3" opacity=".66"/><circle cx="714" cy="245" r="2" opacity=".66"/><circle cx="1113" cy="327" r="2" opacity=".66"/><circle cx="635" cy="90" r="1.5" opacity=".66"/><circle cx="119" cy="47" r="1.5" opacity=".66"/><circle cx="605" cy="327" r="2" opacity=".66"/><circle cx="741" cy="366" r="1.5" opacity=".66"/><circle cx="1001" cy="46" r="1.5" opacity=".66"/></g>
+    <g fill="#176c59" opacity=".55"><path d="M1118 222h16m-8-8v16" stroke="#176c59" stroke-width="2"/><path d="M767 174h12m-6-6v12" stroke="#176c59" stroke-width="2"/></g>
+    <g font-family="Segoe UI,Microsoft YaHei,PingFang SC,Arial,sans-serif">
+      <rect x="60" y="58" width="212" height="34" rx="17" fill="#176c59" fill-opacity=".1" stroke="#176c59" stroke-opacity=".28"/>
+      <circle cx="78" cy="75" r="4" fill="#176c59"/>
+      <text x="93" y="80" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing="2" fill="#176c59">TOP OF MOON / LAB</text>
+      <text x="57" y="181" font-size="78" font-weight="700" letter-spacing="4" fill="#17334b">糖霜薄荷</text>
+      <text x="62" y="218" font-family="Consolas,Menlo,monospace" font-size="21" letter-spacing="1" fill="#476477">@tianxingstarsky</text>
+      <text x="61" y="267" font-size="24" letter-spacing="1" fill="#17334b">把想法写进代码，把 AI 带到现实。</text>
+      <text x="63" y="309" font-size="14" letter-spacing="2" fill="#176c59">FOUNDER · BUILDER · AI PARADIGM EXPLORER</text>
+      <text x="63" y="397" font-size="16" fill="#476477">月上之穹科技</text>
+      <circle cx="202" cy="391" r="2" fill="#476477"/>
+      <text x="218" y="397" font-family="Consolas,Menlo,monospace" font-size="13" letter-spacing="1" fill="#476477">ZHUHAI, CHINA</text>
+    </g>
+    <ellipse cx="939" cy="313" rx="204" ry="54" transform="rotate(-21 939 313)" fill="none" stroke="#176c59" stroke-opacity=".3" stroke-width="1.5"/>
+    <circle cx="941" cy="319" r="94" fill="url(#moon)"/>
+    <g clip-path="url(#moonClip)" fill="#539f88" fill-opacity=".17">
+      <ellipse cx="897" cy="298" rx="24" ry="15"/><ellipse cx="977" cy="363" rx="28" ry="17"/><circle cx="918" cy="378" r="11"/>
+      <ellipse cx="992" cy="299" rx="15" ry="10"/><ellipse cx="942" cy="334" rx="9" ry="5"/>
+      <path d="M864 351h32l18-18h57l20-20h52" stroke="#438c76" stroke-width="2" fill="none"/>
+      <circle cx="896" cy="351" r="4"/><circle cx="991" cy="313" r="4"/>
+    </g>
+    <g stroke="#244c51" stroke-width="3" stroke-linejoin="round">
+      <rect x="880" y="183" width="32" height="61" rx="11" fill="#83b6ac"/>
+      <path d="M899 222 Q897 188 924 187h28q23 4 21 32l-3 51-60-3z" fill="#f1fff8"/>
+      <path d="M911 260 Q893 279 901 297l37 7 5-19-18-9" fill="#f1fff8"/>
+      <path d="M946 263 Q938 284 959 293l31-4-2-18-20 1" fill="#e1f5ec"/>
+      <rect x="922" y="225" width="25" height="20" rx="4" fill="#a4e8cc"/>
+      <path d="M908 211q-20 8-21 32l19 6 15-23" fill="#f1fff8"/>
+      <path d="M959 210q21 1 31 20l-13 13-21-18" fill="#f1fff8"/>
+      <ellipse cx="936" cy="171" rx="48" ry="43" fill="#f1fff8"/>
+      <rect x="900" y="150" width="71" height="43" rx="21" fill="url(#visor)"/>
+      <path d="M911 160q13-8 26-4" fill="none" stroke="#b5f2d9" stroke-width="4" stroke-linecap="round"/>
+      <path d="M923 178q5 6 10 0m10 0q5 6 10 0" fill="none" stroke="#a7edcf" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="887" cy="173" r="7" fill="#a4e8cc"/><circle cx="984" cy="173" r="7" fill="#a4e8cc"/>
+      <path d="M987 160v-22" fill="none"/><circle cx="987" cy="134" r="5" fill="#92efd0"/>
+      <path d="M920 238h71l-9 43h-72z" fill="#244453"/>
+      <path d="M904 282h84l-6 7h-75z" fill="#92c6b6"/>
+    </g>
+    <text x="932" y="266" fill="#a6f3d3" font-family="Consolas,Menlo,monospace" font-size="20" font-weight="700">&lt;/&gt;</text>
+    <g transform="translate(1045 239) rotate(8)">
+      <path d="M0 0v83" stroke="#476477" stroke-width="3"/>
+      <path d="M2 1h62v38H2z" fill="#176c59" fill-opacity=".16" stroke="#176c59" stroke-width="1.5"/>
+      <text x="15" y="27" font-family="Consolas,Menlo,monospace" font-size="18" font-weight="700" fill="#176c59">AI</text>
+    </g>
+    <g transform="translate(764 284) rotate(-12)" fill="none" stroke="#176c59" stroke-width="2" opacity=".78">
+      <rect width="53" height="38" rx="8"/><path d="M12 13l-6 6 6 6m29-12 6 6-6 6m-15-13-6 14"/>
+    </g>
+    <rect x=".75" y=".75" width="1198.5" height="438.5" rx="27" fill="none" stroke="#b2d5cc" stroke-opacity=".65" stroke-width="1.5"/>
+  </g></svg>

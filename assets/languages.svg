@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="86" viewBox="0 0 800 86" role="img" aria-labelledby="title desc"><title id="title">C++ · Python · C · JavaScript</title><desc id="desc">My everyday programming languages.</desc>
+    <g transform="translate(0 5)">
+      <rect width="185" height="76" rx="15" fill="#d9ecfa"/>
+      <rect x="12" y="18" width="38" height="38" rx="10" fill="#204c70"/>
+      <text x="31" y="43" text-anchor="middle" fill="#d9ecfa" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700">{ }</text>
+      <text x="62" y="46" fill="#204c70" font-family="Consolas,Menlo,monospace" font-size="23" font-weight="700">C++</text>
+    </g>
+    <g transform="translate(205 5)">
+      <rect width="185" height="76" rx="15" fill="#dff4e9"/>
+      <rect x="12" y="18" width="38" height="38" rx="10" fill="#245c49"/>
+      <text x="31" y="43" text-anchor="middle" fill="#dff4e9" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700">Py</text>
+      <text x="62" y="46" fill="#245c49" font-family="Consolas,Menlo,monospace" font-size="23" font-weight="700">Python</text>
+    </g>
+    <g transform="translate(410 5)">
+      <rect width="185" height="76" rx="15" fill="#e9e6f7"/>
+      <rect x="12" y="18" width="38" height="38" rx="10" fill="#52447b"/>
+      <text x="31" y="43" text-anchor="middle" fill="#e9e6f7" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700">C</text>
+      <text x="62" y="46" fill="#52447b" font-family="Consolas,Menlo,monospace" font-size="23" font-weight="700">C</text>
+    </g>
+    <g transform="translate(615 5)">
+      <rect width="185" height="76" rx="15" fill="#faf0d4"/>
+      <rect x="12" y="18" width="38" height="38" rx="10" fill="#756025"/>
+      <text x="31" y="43" text-anchor="middle" fill="#faf0d4" font-family="Consolas,Menlo,monospace" font-size="17" font-weight="700">JS</text>
+      <text x="62" y="46" fill="#756025" font-family="Consolas,Menlo,monospace" font-size="18" font-weight="700">JavaScript</text>
+    </g></svg>
