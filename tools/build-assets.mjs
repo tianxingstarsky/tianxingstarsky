@@ -9,8 +9,8 @@ const font = 'Segoe UI,Microsoft YaHei,PingFang SC,Arial,sans-serif';
 const mono = 'Consolas,Menlo,monospace';
 
 const palettes = {
-  dark: { bg: '#101d31', end: '#102e37', text: '#effaf6', muted: '#b6d2d5', mint: '#92efd0', line: '#33505d', panel: '#152939' },
-  light: { bg: '#eaf8f2', end: '#e6f0fb', text: '#17334b', muted: '#476477', mint: '#176c59', line: '#b2d5cc', panel: '#f7fcfa' },
+  dark: { bg: '#34081b', end: '#130811', text: '#fff0f7', muted: '#ddb0c4', accent: '#ff4fae', line: '#8f3157' },
+  light: { bg: '#751338', end: '#290919', text: '#fff3f8', muted: '#f0c6d9', accent: '#ff83c9', line: '#c95c86' },
 };
 
 function shell(width, height, title, desc, content) {
@@ -20,12 +20,12 @@ function shell(width, height, title, desc, content) {
 function hero(theme) {
   const c = palettes[theme];
   const stars = [[700,60,2],[786,99,3],[1092,63,2],[1152,156,3],[714,245,2],[1113,327,2],[635,90,1.5],[119,47,1.5],[605,327,2],[741,366,1.5],[1001,46,1.5]];
-  return shell(1200, 440, "From C to the Moon: A Founder's Notes on Building Intelligence", 'Field notes from tianxingstarsky, founder of Top of Moon in Zhuhai, China. A mint-colored astronaut writes code on the moon above a sea of circuits.', `
+  return shell(1200, 440, "From C to the Moon: A Founder's Notes on Building Intelligence", 'Field notes from tianxingstarsky, founder of Top of Moon in Zhuhai, China. An astronaut writes code on a magenta moon, against a deep crimson sky.', `
   <defs>
     <linearGradient id="background" x2="1" y2="1"><stop stop-color="${c.bg}"/><stop offset="1" stop-color="${c.end}"/></linearGradient>
-    <linearGradient id="moon" x2=".3" y2="1"><stop stop-color="#e5fff1"/><stop offset="1" stop-color="#83cbb3"/></linearGradient>
-    <linearGradient id="visor" x2="1" y2="1"><stop stop-color="#244452"/><stop offset="1" stop-color="#102135"/></linearGradient>
-    <radialGradient id="halo"><stop stop-color="#77dcb8" stop-opacity=".25"/><stop offset="1" stop-color="#77dcb8" stop-opacity="0"/></radialGradient>
+    <linearGradient id="moon" x2=".3" y2="1"><stop stop-color="#ffd0e7"/><stop offset="1" stop-color="#b01d55"/></linearGradient>
+    <linearGradient id="visor" x2="1" y2="1"><stop stop-color="#501330"/><stop offset="1" stop-color="#200919"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#ff38a5" stop-opacity=".25"/><stop offset="1" stop-color="#ff38a5" stop-opacity="0"/></radialGradient>
     <clipPath id="round"><rect width="1200" height="440" rx="28"/></clipPath>
     <clipPath id="moonClip"><circle cx="941" cy="319" r="94"/></clipPath>
   </defs>
@@ -38,50 +38,50 @@ function hero(theme) {
       <path d="M0 405 Q151 369 303 405 T622 402 T942 405 T1240 399"/>
       <path d="M660 62 L750 117 L808 68 L892 103 L1026 72 L1119 122"/>
     </g>
-    <g fill="${c.mint}">${stars.map(([x,y,r])=>`<circle cx="${x}" cy="${y}" r="${r}" opacity=".66"/>`).join('')}</g>
-    <g fill="${c.mint}" opacity=".55"><path d="M1118 222h16m-8-8v16" stroke="${c.mint}" stroke-width="2"/><path d="M767 174h12m-6-6v12" stroke="${c.mint}" stroke-width="2"/></g>
+    <g fill="${c.accent}">${stars.map(([x,y,r])=>`<circle cx="${x}" cy="${y}" r="${r}" opacity=".66"/>`).join('')}</g>
+    <g fill="${c.accent}" opacity=".55"><path d="M1118 222h16m-8-8v16" stroke="${c.accent}" stroke-width="2"/><path d="M767 174h12m-6-6v12" stroke="${c.accent}" stroke-width="2"/></g>
     <g font-family="${font}">
-      <rect x="60" y="43" width="357" height="34" rx="17" fill="${c.mint}" fill-opacity=".1" stroke="${c.mint}" stroke-opacity=".28"/>
-      <circle cx="78" cy="60" r="4" fill="${c.mint}"/>
-      <text x="93" y="65" font-family="${mono}" font-size="12" letter-spacing="1.4" fill="${c.mint}">FIELD NOTES / ALWAYS IN REVISION</text>
+      <rect x="60" y="43" width="357" height="34" rx="17" fill="${c.accent}" fill-opacity=".1" stroke="${c.accent}" stroke-opacity=".28"/>
+      <circle cx="78" cy="60" r="4" fill="${c.accent}"/>
+      <text x="93" y="65" font-family="${mono}" font-size="12" letter-spacing="1.4" fill="${c.accent}">FIELD NOTES / ALWAYS IN REVISION</text>
       <text x="57" y="172" font-size="86" font-weight="700" letter-spacing="-2" fill="${c.text}">From C</text>
       <text x="57" y="264" font-size="86" font-weight="700" letter-spacing="-2" fill="${c.text}">to the Moon.</text>
       <text x="63" y="312" font-size="22" fill="${c.muted}">A Founder's Notes on Building Intelligence</text>
-      <text x="63" y="355" font-family="${mono}" font-size="19" fill="${c.mint}">@tianxingstarsky</text>
+      <text x="63" y="355" font-family="${mono}" font-size="19" fill="${c.accent}">@tianxingstarsky</text>
       <text x="63" y="402" font-family="${mono}" font-size="14" letter-spacing="1" fill="${c.muted}">TOP OF MOON · ZHUHAI, CHINA</text>
     </g>
-    <ellipse cx="939" cy="313" rx="204" ry="54" transform="rotate(-21 939 313)" fill="none" stroke="${c.mint}" stroke-opacity=".3" stroke-width="1.5"/>
+    <ellipse cx="939" cy="313" rx="204" ry="54" transform="rotate(-21 939 313)" fill="none" stroke="${c.accent}" stroke-opacity=".3" stroke-width="1.5"/>
     <circle cx="941" cy="319" r="94" fill="url(#moon)"/>
-    <g clip-path="url(#moonClip)" fill="#539f88" fill-opacity=".17">
+    <g clip-path="url(#moonClip)" fill="#701531" fill-opacity=".17">
       <ellipse cx="897" cy="298" rx="24" ry="15"/><ellipse cx="977" cy="363" rx="28" ry="17"/><circle cx="918" cy="378" r="11"/>
       <ellipse cx="992" cy="299" rx="15" ry="10"/><ellipse cx="942" cy="334" rx="9" ry="5"/>
-      <path d="M864 351h32l18-18h57l20-20h52" stroke="#438c76" stroke-width="2" fill="none"/>
+      <path d="M864 351h32l18-18h57l20-20h52" stroke="#aa245a" stroke-width="2" fill="none"/>
       <circle cx="896" cy="351" r="4"/><circle cx="991" cy="313" r="4"/>
     </g>
-    <g stroke="#244c51" stroke-width="3" stroke-linejoin="round">
-      <rect x="880" y="183" width="32" height="61" rx="11" fill="#83b6ac"/>
-      <path d="M899 222 Q897 188 924 187h28q23 4 21 32l-3 51-60-3z" fill="#f1fff8"/>
-      <path d="M911 260 Q893 279 901 297l37 7 5-19-18-9" fill="#f1fff8"/>
-      <path d="M946 263 Q938 284 959 293l31-4-2-18-20 1" fill="#e1f5ec"/>
-      <rect x="922" y="225" width="25" height="20" rx="4" fill="#a4e8cc"/>
-      <path d="M908 211q-20 8-21 32l19 6 15-23" fill="#f1fff8"/>
-      <path d="M959 210q21 1 31 20l-13 13-21-18" fill="#f1fff8"/>
-      <ellipse cx="936" cy="171" rx="48" ry="43" fill="#f1fff8"/>
+    <g stroke="#65203f" stroke-width="3" stroke-linejoin="round">
+      <rect x="880" y="183" width="32" height="61" rx="11" fill="#c9598c"/>
+      <path d="M899 222 Q897 188 924 187h28q23 4 21 32l-3 51-60-3z" fill="#ffe9f4"/>
+      <path d="M911 260 Q893 279 901 297l37 7 5-19-18-9" fill="#ffe9f4"/>
+      <path d="M946 263 Q938 284 959 293l31-4-2-18-20 1" fill="#f8cadd"/>
+      <rect x="922" y="225" width="25" height="20" rx="4" fill="#ff8ec9"/>
+      <path d="M908 211q-20 8-21 32l19 6 15-23" fill="#ffe9f4"/>
+      <path d="M959 210q21 1 31 20l-13 13-21-18" fill="#ffe9f4"/>
+      <ellipse cx="936" cy="171" rx="48" ry="43" fill="#ffe9f4"/>
       <rect x="900" y="150" width="71" height="43" rx="21" fill="url(#visor)"/>
-      <path d="M911 160q13-8 26-4" fill="none" stroke="#b5f2d9" stroke-width="4" stroke-linecap="round"/>
-      <path d="M923 178q5 6 10 0m10 0q5 6 10 0" fill="none" stroke="#a7edcf" stroke-width="2.5" stroke-linecap="round"/>
-      <circle cx="887" cy="173" r="7" fill="#a4e8cc"/><circle cx="984" cy="173" r="7" fill="#a4e8cc"/>
-      <path d="M987 160v-22" fill="none"/><circle cx="987" cy="134" r="5" fill="#92efd0"/>
-      <path d="M920 238h71l-9 43h-72z" fill="#244453"/>
-      <path d="M904 282h84l-6 7h-75z" fill="#92c6b6"/>
+      <path d="M911 160q13-8 26-4" fill="none" stroke="#ffd3eb" stroke-width="4" stroke-linecap="round"/>
+      <path d="M923 178q5 6 10 0m10 0q5 6 10 0" fill="none" stroke="#ffb1da" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="887" cy="173" r="7" fill="#ff8ec9"/><circle cx="984" cy="173" r="7" fill="#ff8ec9"/>
+      <path d="M987 160v-22" fill="none"/><circle cx="987" cy="134" r="5" fill="#ff52ae"/>
+      <path d="M920 238h71l-9 43h-72z" fill="#361027"/>
+      <path d="M904 282h84l-6 7h-75z" fill="#d775a6"/>
     </g>
-    <text x="932" y="266" fill="#a6f3d3" font-family="${mono}" font-size="20" font-weight="700">&lt;/&gt;</text>
+    <text x="932" y="266" fill="#ffb5dd" font-family="${mono}" font-size="20" font-weight="700">&lt;/&gt;</text>
     <g transform="translate(1045 239) rotate(8)">
       <path d="M0 0v83" stroke="${c.muted}" stroke-width="3"/>
-      <path d="M2 1h62v38H2z" fill="${c.mint}" fill-opacity=".16" stroke="${c.mint}" stroke-width="1.5"/>
-      <text x="15" y="27" font-family="${mono}" font-size="18" font-weight="700" fill="${c.mint}">AI</text>
+      <path d="M2 1h62v38H2z" fill="${c.accent}" fill-opacity=".16" stroke="${c.accent}" stroke-width="1.5"/>
+      <text x="15" y="27" font-family="${mono}" font-size="18" font-weight="700" fill="${c.accent}">AI</text>
     </g>
-    <g transform="translate(764 284) rotate(-12)" fill="none" stroke="${c.mint}" stroke-width="2" opacity=".78">
+    <g transform="translate(764 284) rotate(-12)" fill="none" stroke="${c.accent}" stroke-width="2" opacity=".78">
       <rect width="53" height="38" rx="8"/><path d="M12 13l-6 6 6 6m29-12 6 6-6 6m-15-13-6 14"/>
     </g>
     <rect x=".75" y=".75" width="1198.5" height="438.5" rx="27" fill="none" stroke="${c.line}" stroke-opacity=".65" stroke-width="1.5"/>
