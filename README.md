@@ -58,11 +58,11 @@ Connect local inference to your own cloud gateway, with an OpenAI-compatible API
 A hybrid architecture experiment bringing convolutional embeddings, Mamba2, and Transformer together. Training workflows, ablations, and comparison results included — even the plot twists.
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/activity-comet-mobile-dark.svg">
-  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="assets/activity-comet-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-comet-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/activity-comet-light.svg">
-  <img src="assets/activity-comet-light.svg" width="1000" alt="Small Commits, Long Tails: the latest commit is a comet's head, with a curling magenta wake flowing left and lighting older contribution cells.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/activity-comet-tail-mobile-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="assets/activity-comet-tail-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-comet-tail-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-comet-tail-light.svg">
+  <img src="assets/activity-comet-tail-light.svg" width="1000" alt="Small Commits, Long Tails: the latest commit is a comet's head, with a curling magenta wake flowing left and lighting older contribution cells.">
 </picture>
 
 <details>

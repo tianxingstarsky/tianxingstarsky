@@ -145,8 +145,20 @@ function drawComet(model, size, gridWidth, gridHeight) {
   if (!model) return '';
   const { head, streams, glows, length } = model;
   const definitions = streams.map((stream, index) => `<path id="flow-${index}" d="${stream.path}"/>`).join('\n');
-  const mist = streams.map((stream, index) => `<use href="#flow-${index}" stroke="url(#cometTint)" stroke-width="${index % 3 === 0 ? 9 : 5}" opacity=".10"/>`).join('');
-  const filaments = streams.map((stream, index) => `<use href="#flow-${index}" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/>`).join('');
+  const mist = streams.map((stream, index) => `<path d="${stream.path}" stroke="url(#cometTint)" stroke-width="${index % 3 === 0 ? 9 : 5}" opacity=".10"/>`).join('');
+  const filaments = streams.map(stream => `<path d="${stream.path}" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/>`).join('');
+  // Keep a still wake visible even when motion is reduced or SVG animation is unavailable.
+  const stillGlows = glows.map(day => {
+    const progress = 1 - day.phase / day.duration;
+    const envelope = progress < .015 || progress >= .16 ? 0
+      : progress < .055 ? (progress - .015) / .04 : (.16 - progress) / .105;
+    const opacity = day.peak * envelope * .75;
+    if (opacity < .025) return '';
+    return `<g class="wake-still-cell" data-date="${day.date}" opacity="${opacity.toFixed(3)}">
+      <rect x="${day.x - 1}" y="${day.y - 1}" width="${size + 2}" height="${size + 2}" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
+      <rect x="${day.x}" y="${day.y}" width="${size}" height="${size}" rx="3" fill="#ffb2e2" opacity=".74"/>
+    </g>`;
+  }).join('');
   const particles = streams.map((stream, index) => Array.from({ length: 4 }, (_, packet) => `<g class="flow-particle" opacity="0">
     <ellipse rx="${packet % 2 ? 1.15 : 1.8}" ry=".7" fill="#ffb9e7"/>
     <animateMotion dur="${stream.duration.toFixed(3)}s" begin="-${(stream.phase + packet * stream.duration / 4).toFixed(3)}s" repeatCount="indefinite" rotate="auto"><mpath href="#flow-${index}"/></animateMotion>
@@ -165,8 +177,9 @@ function drawComet(model, size, gridWidth, gridHeight) {
     <filter id="cellGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.7"/></filter>
   </defs>
   <g clip-path="url(#wallClip)" aria-hidden="true">
-    <g class="motion comet-wake" fill="none" filter="url(#mist)">${mist}</g>
-    <g class="motion comet-wake" fill="none">${filaments}</g>
+    <g class="comet-wake" fill="none" filter="url(#mist)">${mist}</g>
+    <g class="comet-wake" fill="none">${filaments}</g>
+    <g class="wake-still">${stillGlows}</g>
     <g class="motion">${cellGlows}${particles}</g>
   </g>
   <g id="comet-head" data-date="${head.date}" data-count="${head.contributionCount}" transform="translate(${head.cx} ${head.cy})">
@@ -249,8 +262,8 @@ function wall(theme, mobile = false) {
 fs.mkdirSync(path.dirname(snapshotPath), { recursive: true });
 fs.mkdirSync(path.join(root, 'assets'), { recursive: true });
 for (const theme of Object.keys(palettes)) {
-  fs.writeFileSync(path.join(root, 'assets', `activity-comet-${theme}.svg`), wall(theme));
-  fs.writeFileSync(path.join(root, 'assets', `activity-comet-mobile-${theme}.svg`), wall(theme, true));
+  fs.writeFileSync(path.join(root, 'assets', `activity-comet-tail-${theme}.svg`), wall(theme));
+  fs.writeFileSync(path.join(root, 'assets', `activity-comet-tail-mobile-${theme}.svg`), wall(theme, true));
 }
 fs.writeFileSync(snapshotPath, `${JSON.stringify(snapshot, null, 2)}\n`);
 console.log(`Generated the activity wall from ${days.length} real dates and ${calendar.totalContributions} contributions.`);
