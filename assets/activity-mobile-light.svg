@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="232" viewBox="0 0 420 232" role="img" aria-labelledby="title desc">
   <title id="title">Small Commits, Long Tails</title>
-  <desc id="desc">tianxingstarsky: 326 contributions · latest 16 weeks, as of 2026-10-10. Dates progress from left to right. A bright front moves right while particles drift and fade left. Each cell retains its real GitHub contribution count.</desc>
+  <desc id="desc">tianxingstarsky: 329 contributions · latest 16 weeks, as of 2026-10-10. Dates progress from left to right. A bright front moves right while particles drift and fade left. Each cell retains its real GitHub contribution count.</desc>
   <defs>
     <linearGradient id="tail"><stop stop-color="#ed2788" stop-opacity="0"/><stop offset=".8" stop-color="#ff4faa" stop-opacity=".25"/><stop offset="1" stop-color="#ffc1e8" stop-opacity=".42"/></linearGradient>
     <clipPath id="wallClip"><rect x="0" y="-3" width="316" height="154" rx="4"/></clipPath>
@@ -9,7 +9,7 @@
   <rect x=".5" y=".5" width="419" height="231" rx="14" fill="#400c24" stroke="#90284f"/>
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="20" y="24" font-size="16" font-weight="600" fill="#fff3f8">Small Commits, Long Tails</text>
-    <text x="20" y="44" font-size="12" fill="#edb6cf">326 contributions · latest 16 weeks</text>
+    <text x="20" y="44" font-size="12" fill="#edb6cf">329 contributions · latest 16 weeks</text>
     <g font-size="10" fill="#edb6cf"><text x="52" y="57">Jun</text><text x="172" y="57">Aug</text><text x="272" y="57">Sep</text><text x="352" y="57">Oct</text>
       <text x="42" y="102" text-anchor="end">Mon</text><text x="42" y="142" text-anchor="end">Wed</text><text x="42" y="182" text-anchor="end">Fri</text>
     </g>
@@ -86,8 +86,8 @@
     <rect class="day" data-date="2026-08-28" data-count="0" x="180" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-28: 0 contributions</title></rect>
     <rect class="day" data-date="2026-08-29" data-count="0" x="180" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-29: 0 contributions</title></rect>
     <rect class="day" data-date="2026-08-30" data-count="0" x="200" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-30: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-31" data-count="4" x="200" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-08-31: 4 contributions</title></rect>
-    <rect class="day" data-date="2026-09-01" data-count="1" x="200" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-09-01: 1 contributions</title></rect>
+    <rect class="day" data-date="2026-08-31" data-count="5" x="200" y="20" width="16" height="16" rx="3" fill="#c33976"><title>2026-08-31: 5 contributions</title></rect>
+    <rect class="day" data-date="2026-09-01" data-count="0" x="200" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-01: 0 contributions</title></rect>
     <rect class="day" data-date="2026-09-02" data-count="12" x="200" y="60" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-09-02: 12 contributions</title></rect>
     <rect class="day" data-date="2026-09-03" data-count="17" x="200" y="80" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-09-03: 17 contributions</title></rect>
     <rect class="day" data-date="2026-09-04" data-count="8" x="200" y="100" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-04: 8 contributions</title></rect>
@@ -126,7 +126,7 @@
     <rect class="day" data-date="2026-10-07" data-count="13" x="300" y="60" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-07: 13 contributions</title></rect>
     <rect class="day" data-date="2026-10-08" data-count="2" x="300" y="80" width="16" height="16" rx="3" fill="#913050"><title>2026-10-08: 2 contributions</title></rect>
     <rect class="day" data-date="2026-10-09" data-count="17" x="300" y="100" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-10-09: 17 contributions</title></rect>
-    <rect class="day" data-date="2026-10-10" data-count="14" x="300" y="120" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-10: 14 contributions</title></rect>
+    <rect class="day" data-date="2026-10-10" data-count="17" x="300" y="120" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-10-10: 17 contributions</title></rect>
     <path d="M0 145H316" stroke="#90284f" stroke-width="1"/>
     <g clip-path="url(#wallClip)" aria-hidden="true">
       <g class="motion" id="forward-front">
