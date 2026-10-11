@@ -17,7 +17,7 @@ const query = `query($login: String!) {
       }
       commitContributionsByRepository(maxRepositories: 100) {
         repository { isPrivate }
-        contributions(last: 1) { nodes { occurredAt } }
+          contributions(first: 1) { nodes { occurredAt } }
       }
     }
   }
