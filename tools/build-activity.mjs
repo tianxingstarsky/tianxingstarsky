@@ -1,10 +1,12 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
+import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const snapshotPath = path.join(root, 'data', 'public-calendar.json');
+const readmePath = path.join(root, 'README.md');
 const login = 'tianxingstarsky';
 const query = `query($login: String!) {
   user(login: $login) {
@@ -34,7 +36,11 @@ if (process.argv.includes('--offline')) {
     .filter(entry => entry.repository?.isPrivate === false)
     .flatMap(entry => entry.contributions.nodes.map(node => node.occurredAt.slice(0, 10)))
     .sort();
-  snapshot = { login, calendar: collection?.contributionCalendar, latestCommitDate: publicCommitDates.at(-1) ?? null };
+  const current = { login, calendar: collection?.contributionCalendar, latestCommitDate: publicCommitDates.at(-1) ?? null };
+  const previous = fs.existsSync(snapshotPath) ? JSON.parse(fs.readFileSync(snapshotPath, 'utf8')) : null;
+  const previousData = previous && { login: previous.login, calendar: previous.calendar, latestCommitDate: previous.latestCommitDate };
+  const unchanged = JSON.stringify(current) === JSON.stringify(previousData);
+  snapshot = { ...current, syncedAt: unchanged && previous?.syncedAt ? previous.syncedAt : new Date().toISOString() };
 }
 
 const calendar = snapshot.calendar;
@@ -60,6 +66,10 @@ const palettes = {
 const font = 'Segoe UI,Arial,sans-serif';
 const escape = text => String(text).replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;');
 const shortMonth = date => new Date(`${date}T00:00:00Z`).toLocaleDateString('en-US', { month: 'short', timeZone: 'UTC' });
+const syncParts = snapshot.syncedAt && Object.fromEntries(new Intl.DateTimeFormat('en-US', {
+  timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hourCycle: 'h23',
+}).formatToParts(new Date(snapshot.syncedAt)).map(part => [part.type, part.value]));
+const syncLabel = syncParts && `Synced ${syncParts.year}-${syncParts.month}-${syncParts.day} ${syncParts.hour}:${syncParts.minute} UTC+8`;
 
 function randomSource(seed) {
   let state = [...seed].reduce((value, char) => Math.imul(value ^ char.charCodeAt(0), 16777619), 2166136261) >>> 0;
@@ -253,17 +263,24 @@ function wall(theme, mobile = false) {
     ${drawComet(comet, size, gridWidth, gridHeight)}
   </g>
   <g font-family="${font}" font-size="${mobile ? 9 : 10}" fill="${c.muted}">
-    <text x="${mobile ? 20 : 28}" y="${height - 12}">As of ${lastDate}</text>
+    <text x="${mobile ? 20 : 28}" y="${height - 12}">${syncLabel ?? `As of ${lastDate}`}</text>
     <text x="${width - (mobile ? 20 : 28)}" y="${height - 12}" text-anchor="end" letter-spacing=".4">LATEST COMMIT · ${comet?.head.date ?? 'NONE'}</text>
   </g>
 </svg>\n`;
 }
 
+const assets = [];
+for (const theme of Object.keys(palettes)) {
+  assets.push([`activity-comet-tail-${theme}.svg`, wall(theme)]);
+  assets.push([`activity-comet-tail-mobile-${theme}.svg`, wall(theme, true)]);
+}
+// Change image URLs with their contents, while unchanged data produces no new commit.
+const version = createHash('sha256').update(assets.map(([, svg]) => svg).join('')).digest('hex').slice(0, 12);
+const readme = fs.readFileSync(readmePath, 'utf8');
+const updatedReadme = readme.replace(/(assets\/activity-comet-tail(?:-mobile)?-(?:dark|light)\.svg)(?:\?v=[a-f0-9]+)?/g, `$1?v=${version}`);
 fs.mkdirSync(path.dirname(snapshotPath), { recursive: true });
 fs.mkdirSync(path.join(root, 'assets'), { recursive: true });
-for (const theme of Object.keys(palettes)) {
-  fs.writeFileSync(path.join(root, 'assets', `activity-comet-tail-${theme}.svg`), wall(theme));
-  fs.writeFileSync(path.join(root, 'assets', `activity-comet-tail-mobile-${theme}.svg`), wall(theme, true));
-}
+for (const [name, svg] of assets) fs.writeFileSync(path.join(root, 'assets', name), svg);
 fs.writeFileSync(snapshotPath, `${JSON.stringify(snapshot, null, 2)}\n`);
+if (updatedReadme !== readme) fs.writeFileSync(readmePath, updatedReadme);
 console.log(`Generated the activity wall from ${days.length} real dates and ${calendar.totalContributions} contributions.`);
