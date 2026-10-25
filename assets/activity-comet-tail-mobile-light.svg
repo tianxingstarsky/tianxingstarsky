@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="232" viewBox="0 0 420 232" role="img" aria-labelledby="title desc">
   <title id="title">Small Commits, Long Tails</title>
-  <desc id="desc">tianxingstarsky: 409 contributions · latest 16 weeks, as of 2026-10-24. The comet's head is anchored to the latest public commit day, 2026-10-24. A curling wake flows left, softly lighting older cells as it passes. Each cell retains its real GitHub contribution count.</desc>
+  <desc id="desc">tianxingstarsky: 407 contributions · latest 16 weeks, as of 2026-10-25. The comet's head is anchored to the latest public commit day, 2026-10-24. A curling wake flows left, softly lighting older cells as it passes. Each cell retains its real GitHub contribution count.</desc>
   <defs>
     <clipPath id="wallClip"><rect x="0" y="0" width="316" height="136" rx="4"/></clipPath>
   </defs>
@@ -8,430 +8,374 @@
   <rect x=".5" y=".5" width="419" height="231" rx="14" fill="#400c24" stroke="#90284f"/>
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="20" y="24" font-size="16" font-weight="600" fill="#fff3f8">Small Commits, Long Tails</text>
-    <text x="20" y="44" font-size="12" fill="#edb6cf">409 contributions · latest 16 weeks</text>
-    <g font-size="10" fill="#edb6cf"><text x="52" y="57">Jul</text><text x="132" y="57">Aug</text><text x="232" y="57">Sep</text><text x="312" y="57">Oct</text>
+    <text x="20" y="44" font-size="12" fill="#edb6cf">407 contributions · latest 16 weeks</text>
+    <g font-size="10" fill="#edb6cf"><text x="52" y="57">Jul</text><text x="112" y="57">Aug</text><text x="212" y="57">Sep</text><text x="292" y="57">Oct</text>
       <text x="42" y="102" text-anchor="end">Mon</text><text x="42" y="142" text-anchor="end">Wed</text><text x="42" y="182" text-anchor="end">Fri</text>
     </g>
   </g>
   <g transform="translate(52 68)">
-    <rect class="day" data-date="2026-07-05" data-count="0" x="0" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-05: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-06" data-count="2" x="0" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-07-06: 2 contributions</title></rect>
-    <rect class="day" data-date="2026-07-07" data-count="0" x="0" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-07: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-08" data-count="0" x="0" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-08: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-09" data-count="0" x="0" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-09: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-10" data-count="0" x="0" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-10: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-11" data-count="0" x="0" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-11: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-12" data-count="0" x="20" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-12: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-13" data-count="0" x="20" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-13: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-14" data-count="0" x="20" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-14: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-15" data-count="0" x="20" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-15: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-16" data-count="0" x="20" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-16: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-17" data-count="0" x="20" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-17: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-18" data-count="0" x="20" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-18: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-19" data-count="0" x="40" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-19: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-20" data-count="0" x="40" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-20: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-21" data-count="0" x="40" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-21: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-22" data-count="0" x="40" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-22: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-23" data-count="0" x="40" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-23: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-24" data-count="0" x="40" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-24: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-25" data-count="0" x="40" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-25: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-26" data-count="0" x="60" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-26: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-27" data-count="0" x="60" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-27: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-28" data-count="0" x="60" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-28: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-29" data-count="0" x="60" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-29: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-30" data-count="0" x="60" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-30: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-07-31" data-count="0" x="60" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-31: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-01" data-count="0" x="60" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-01: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-02" data-count="0" x="80" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-02: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-03" data-count="0" x="80" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-03: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-04" data-count="0" x="80" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-04: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-05" data-count="0" x="80" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-05: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-06" data-count="0" x="80" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-06: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-07" data-count="0" x="80" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-07: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-08" data-count="0" x="80" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-08: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-09" data-count="0" x="100" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-09: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-10" data-count="0" x="100" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-10: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-11" data-count="0" x="100" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-11: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-12" data-count="0" x="100" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-12: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-13" data-count="0" x="100" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-13: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-14" data-count="0" x="100" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-14: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-15" data-count="0" x="100" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-15: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-16" data-count="0" x="120" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-16: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-17" data-count="0" x="120" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-17: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-18" data-count="0" x="120" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-18: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-19" data-count="0" x="120" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-19: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-20" data-count="0" x="120" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-20: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-21" data-count="0" x="120" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-21: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-22" data-count="0" x="120" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-22: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-23" data-count="0" x="140" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-23: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-24" data-count="0" x="140" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-24: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-25" data-count="0" x="140" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-25: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-26" data-count="0" x="140" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-26: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-27" data-count="0" x="140" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-27: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-28" data-count="0" x="140" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-28: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-29" data-count="0" x="140" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-29: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-30" data-count="0" x="160" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-30: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-08-31" data-count="5" x="160" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-08-31: 5 contributions</title></rect>
-    <rect class="day" data-date="2026-09-01" data-count="0" x="160" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-01: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-09-02" data-count="12" x="160" y="60" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-09-02: 12 contributions</title></rect>
-    <rect class="day" data-date="2026-09-03" data-count="17" x="160" y="80" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-09-03: 17 contributions</title></rect>
-    <rect class="day" data-date="2026-09-04" data-count="8" x="160" y="100" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-04: 8 contributions</title></rect>
-    <rect class="day" data-date="2026-09-05" data-count="8" x="160" y="120" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-05: 8 contributions</title></rect>
-    <rect class="day" data-date="2026-09-06" data-count="3" x="180" y="0" width="16" height="16" rx="3" fill="#913050"><title>2026-09-06: 3 contributions</title></rect>
-    <rect class="day" data-date="2026-09-07" data-count="3" x="180" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-09-07: 3 contributions</title></rect>
-    <rect class="day" data-date="2026-09-08" data-count="0" x="180" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-08: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-09-09" data-count="0" x="180" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-09: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-09-10" data-count="7" x="180" y="80" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-10: 7 contributions</title></rect>
-    <rect class="day" data-date="2026-09-11" data-count="1" x="180" y="100" width="16" height="16" rx="3" fill="#913050"><title>2026-09-11: 1 contributions</title></rect>
-    <rect class="day" data-date="2026-09-12" data-count="4" x="180" y="120" width="16" height="16" rx="3" fill="#913050"><title>2026-09-12: 4 contributions</title></rect>
-    <rect class="day" data-date="2026-09-13" data-count="1" x="200" y="0" width="16" height="16" rx="3" fill="#913050"><title>2026-09-13: 1 contributions</title></rect>
-    <rect class="day" data-date="2026-09-14" data-count="1" x="200" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-09-14: 1 contributions</title></rect>
-    <rect class="day" data-date="2026-09-15" data-count="0" x="200" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-15: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-09-16" data-count="0" x="200" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-16: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-09-17" data-count="0" x="200" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-17: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-09-18" data-count="2" x="200" y="100" width="16" height="16" rx="3" fill="#913050"><title>2026-09-18: 2 contributions</title></rect>
-    <rect class="day" data-date="2026-09-19" data-count="1" x="200" y="120" width="16" height="16" rx="3" fill="#913050"><title>2026-09-19: 1 contributions</title></rect>
-    <rect class="day" data-date="2026-09-20" data-count="11" x="220" y="0" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-20: 11 contributions</title></rect>
-    <rect class="day" data-date="2026-09-21" data-count="4" x="220" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-09-21: 4 contributions</title></rect>
-    <rect class="day" data-date="2026-09-22" data-count="5" x="220" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-09-22: 5 contributions</title></rect>
-    <rect class="day" data-date="2026-09-23" data-count="4" x="220" y="60" width="16" height="16" rx="3" fill="#913050"><title>2026-09-23: 4 contributions</title></rect>
-    <rect class="day" data-date="2026-09-24" data-count="43" x="220" y="80" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-09-24: 43 contributions</title></rect>
-    <rect class="day" data-date="2026-09-25" data-count="23" x="220" y="100" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-09-25: 23 contributions</title></rect>
-    <rect class="day" data-date="2026-09-26" data-count="0" x="220" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-26: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-09-27" data-count="82" x="240" y="0" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-09-27: 82 contributions</title></rect>
-    <rect class="day" data-date="2026-09-28" data-count="0" x="240" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-28: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-09-29" data-count="2" x="240" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-09-29: 2 contributions</title></rect>
-    <rect class="day" data-date="2026-09-30" data-count="0" x="240" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-30: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-10-01" data-count="0" x="240" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-01: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-10-02" data-count="13" x="240" y="100" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-02: 13 contributions</title></rect>
-    <rect class="day" data-date="2026-10-03" data-count="18" x="240" y="120" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-10-03: 18 contributions</title></rect>
-    <rect class="day" data-date="2026-10-04" data-count="0" x="260" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-04: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-10-05" data-count="0" x="260" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-05: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-10-06" data-count="0" x="260" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-06: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-10-07" data-count="13" x="260" y="60" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-07: 13 contributions</title></rect>
-    <rect class="day" data-date="2026-10-08" data-count="2" x="260" y="80" width="16" height="16" rx="3" fill="#913050"><title>2026-10-08: 2 contributions</title></rect>
-    <rect class="day" data-date="2026-10-09" data-count="17" x="260" y="100" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-09: 17 contributions</title></rect>
-    <rect class="day" data-date="2026-10-10" data-count="19" x="260" y="120" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-10-10: 19 contributions</title></rect>
-    <rect class="day" data-date="2026-10-11" data-count="10" x="280" y="0" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-11: 10 contributions</title></rect>
-    <rect class="day" data-date="2026-10-12" data-count="8" x="280" y="20" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-12: 8 contributions</title></rect>
-    <rect class="day" data-date="2026-10-13" data-count="1" x="280" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-10-13: 1 contributions</title></rect>
-    <rect class="day" data-date="2026-10-14" data-count="9" x="280" y="60" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-14: 9 contributions</title></rect>
-    <rect class="day" data-date="2026-10-15" data-count="7" x="280" y="80" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-15: 7 contributions</title></rect>
-    <rect class="day" data-date="2026-10-16" data-count="15" x="280" y="100" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-16: 15 contributions</title></rect>
-    <rect class="day" data-date="2026-10-17" data-count="0" x="280" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-17: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-10-18" data-count="1" x="300" y="0" width="16" height="16" rx="3" fill="#913050"><title>2026-10-18: 1 contributions</title></rect>
-    <rect class="day" data-date="2026-10-19" data-count="2" x="300" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-10-19: 2 contributions</title></rect>
-    <rect class="day" data-date="2026-10-20" data-count="3" x="300" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-10-20: 3 contributions</title></rect>
-    <rect class="day" data-date="2026-10-21" data-count="4" x="300" y="60" width="16" height="16" rx="3" fill="#913050"><title>2026-10-21: 4 contributions</title></rect>
-    <rect class="day" data-date="2026-10-22" data-count="0" x="300" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-22: 0 contributions</title></rect>
-    <rect class="day" data-date="2026-10-23" data-count="11" x="300" y="100" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-23: 11 contributions</title></rect>
-    <rect class="day" data-date="2026-10-24" data-count="7" x="300" y="120" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-24: 7 contributions</title></rect>
+    <rect class="day" data-date="2026-07-12" data-count="0" x="0" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-12: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-13" data-count="0" x="0" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-13: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-14" data-count="0" x="0" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-14: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-15" data-count="0" x="0" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-15: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-16" data-count="0" x="0" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-16: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-17" data-count="0" x="0" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-17: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-18" data-count="0" x="0" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-18: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-19" data-count="0" x="20" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-19: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-20" data-count="0" x="20" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-20: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-21" data-count="0" x="20" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-21: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-22" data-count="0" x="20" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-22: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-23" data-count="0" x="20" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-23: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-24" data-count="0" x="20" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-24: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-25" data-count="0" x="20" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-25: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-26" data-count="0" x="40" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-26: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-27" data-count="0" x="40" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-27: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-28" data-count="0" x="40" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-28: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-29" data-count="0" x="40" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-29: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-30" data-count="0" x="40" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-30: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-07-31" data-count="0" x="40" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-07-31: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-01" data-count="0" x="40" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-01: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-02" data-count="0" x="60" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-02: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-03" data-count="0" x="60" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-03: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-04" data-count="0" x="60" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-04: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-05" data-count="0" x="60" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-05: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-06" data-count="0" x="60" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-06: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-07" data-count="0" x="60" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-07: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-08" data-count="0" x="60" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-08: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-09" data-count="0" x="80" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-09: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-10" data-count="0" x="80" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-10: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-11" data-count="0" x="80" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-11: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-12" data-count="0" x="80" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-12: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-13" data-count="0" x="80" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-13: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-14" data-count="0" x="80" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-14: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-15" data-count="0" x="80" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-15: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-16" data-count="0" x="100" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-16: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-17" data-count="0" x="100" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-17: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-18" data-count="0" x="100" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-18: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-19" data-count="0" x="100" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-19: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-20" data-count="0" x="100" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-20: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-21" data-count="0" x="100" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-21: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-22" data-count="0" x="100" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-22: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-23" data-count="0" x="120" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-23: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-24" data-count="0" x="120" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-24: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-25" data-count="0" x="120" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-25: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-26" data-count="0" x="120" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-26: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-27" data-count="0" x="120" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-27: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-28" data-count="0" x="120" y="100" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-28: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-29" data-count="0" x="120" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-29: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-30" data-count="0" x="140" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-08-30: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-08-31" data-count="5" x="140" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-08-31: 5 contributions</title></rect>
+    <rect class="day" data-date="2026-09-01" data-count="0" x="140" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-01: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-09-02" data-count="12" x="140" y="60" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-09-02: 12 contributions</title></rect>
+    <rect class="day" data-date="2026-09-03" data-count="17" x="140" y="80" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-09-03: 17 contributions</title></rect>
+    <rect class="day" data-date="2026-09-04" data-count="8" x="140" y="100" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-04: 8 contributions</title></rect>
+    <rect class="day" data-date="2026-09-05" data-count="8" x="140" y="120" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-05: 8 contributions</title></rect>
+    <rect class="day" data-date="2026-09-06" data-count="3" x="160" y="0" width="16" height="16" rx="3" fill="#913050"><title>2026-09-06: 3 contributions</title></rect>
+    <rect class="day" data-date="2026-09-07" data-count="3" x="160" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-09-07: 3 contributions</title></rect>
+    <rect class="day" data-date="2026-09-08" data-count="0" x="160" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-08: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-09-09" data-count="0" x="160" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-09: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-09-10" data-count="7" x="160" y="80" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-10: 7 contributions</title></rect>
+    <rect class="day" data-date="2026-09-11" data-count="1" x="160" y="100" width="16" height="16" rx="3" fill="#913050"><title>2026-09-11: 1 contributions</title></rect>
+    <rect class="day" data-date="2026-09-12" data-count="4" x="160" y="120" width="16" height="16" rx="3" fill="#913050"><title>2026-09-12: 4 contributions</title></rect>
+    <rect class="day" data-date="2026-09-13" data-count="1" x="180" y="0" width="16" height="16" rx="3" fill="#913050"><title>2026-09-13: 1 contributions</title></rect>
+    <rect class="day" data-date="2026-09-14" data-count="1" x="180" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-09-14: 1 contributions</title></rect>
+    <rect class="day" data-date="2026-09-15" data-count="0" x="180" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-15: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-09-16" data-count="0" x="180" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-16: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-09-17" data-count="0" x="180" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-17: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-09-18" data-count="2" x="180" y="100" width="16" height="16" rx="3" fill="#913050"><title>2026-09-18: 2 contributions</title></rect>
+    <rect class="day" data-date="2026-09-19" data-count="1" x="180" y="120" width="16" height="16" rx="3" fill="#913050"><title>2026-09-19: 1 contributions</title></rect>
+    <rect class="day" data-date="2026-09-20" data-count="11" x="200" y="0" width="16" height="16" rx="3" fill="#c33976"><title>2026-09-20: 11 contributions</title></rect>
+    <rect class="day" data-date="2026-09-21" data-count="4" x="200" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-09-21: 4 contributions</title></rect>
+    <rect class="day" data-date="2026-09-22" data-count="5" x="200" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-09-22: 5 contributions</title></rect>
+    <rect class="day" data-date="2026-09-23" data-count="4" x="200" y="60" width="16" height="16" rx="3" fill="#913050"><title>2026-09-23: 4 contributions</title></rect>
+    <rect class="day" data-date="2026-09-24" data-count="43" x="200" y="80" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-09-24: 43 contributions</title></rect>
+    <rect class="day" data-date="2026-09-25" data-count="23" x="200" y="100" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-09-25: 23 contributions</title></rect>
+    <rect class="day" data-date="2026-09-26" data-count="0" x="200" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-26: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-09-27" data-count="82" x="220" y="0" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-09-27: 82 contributions</title></rect>
+    <rect class="day" data-date="2026-09-28" data-count="0" x="220" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-28: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-09-29" data-count="2" x="220" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-09-29: 2 contributions</title></rect>
+    <rect class="day" data-date="2026-09-30" data-count="0" x="220" y="60" width="16" height="16" rx="3" fill="#5a1735"><title>2026-09-30: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-10-01" data-count="0" x="220" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-01: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-10-02" data-count="13" x="220" y="100" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-02: 13 contributions</title></rect>
+    <rect class="day" data-date="2026-10-03" data-count="18" x="220" y="120" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-10-03: 18 contributions</title></rect>
+    <rect class="day" data-date="2026-10-04" data-count="0" x="240" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-04: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-10-05" data-count="0" x="240" y="20" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-05: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-10-06" data-count="0" x="240" y="40" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-06: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-10-07" data-count="13" x="240" y="60" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-07: 13 contributions</title></rect>
+    <rect class="day" data-date="2026-10-08" data-count="2" x="240" y="80" width="16" height="16" rx="3" fill="#913050"><title>2026-10-08: 2 contributions</title></rect>
+    <rect class="day" data-date="2026-10-09" data-count="17" x="240" y="100" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-09: 17 contributions</title></rect>
+    <rect class="day" data-date="2026-10-10" data-count="19" x="240" y="120" width="16" height="16" rx="3" fill="#ffa0dd"><title>2026-10-10: 19 contributions</title></rect>
+    <rect class="day" data-date="2026-10-11" data-count="10" x="260" y="0" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-11: 10 contributions</title></rect>
+    <rect class="day" data-date="2026-10-12" data-count="8" x="260" y="20" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-12: 8 contributions</title></rect>
+    <rect class="day" data-date="2026-10-13" data-count="1" x="260" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-10-13: 1 contributions</title></rect>
+    <rect class="day" data-date="2026-10-14" data-count="9" x="260" y="60" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-14: 9 contributions</title></rect>
+    <rect class="day" data-date="2026-10-15" data-count="7" x="260" y="80" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-15: 7 contributions</title></rect>
+    <rect class="day" data-date="2026-10-16" data-count="15" x="260" y="100" width="16" height="16" rx="3" fill="#ed4aa1"><title>2026-10-16: 15 contributions</title></rect>
+    <rect class="day" data-date="2026-10-17" data-count="0" x="260" y="120" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-17: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-10-18" data-count="1" x="280" y="0" width="16" height="16" rx="3" fill="#913050"><title>2026-10-18: 1 contributions</title></rect>
+    <rect class="day" data-date="2026-10-19" data-count="2" x="280" y="20" width="16" height="16" rx="3" fill="#913050"><title>2026-10-19: 2 contributions</title></rect>
+    <rect class="day" data-date="2026-10-20" data-count="3" x="280" y="40" width="16" height="16" rx="3" fill="#913050"><title>2026-10-20: 3 contributions</title></rect>
+    <rect class="day" data-date="2026-10-21" data-count="4" x="280" y="60" width="16" height="16" rx="3" fill="#913050"><title>2026-10-21: 4 contributions</title></rect>
+    <rect class="day" data-date="2026-10-22" data-count="0" x="280" y="80" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-22: 0 contributions</title></rect>
+    <rect class="day" data-date="2026-10-23" data-count="11" x="280" y="100" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-23: 11 contributions</title></rect>
+    <rect class="day" data-date="2026-10-24" data-count="7" x="280" y="120" width="16" height="16" rx="3" fill="#c33976"><title>2026-10-24: 7 contributions</title></rect>
+    <rect class="day" data-date="2026-10-25" data-count="0" x="300" y="0" width="16" height="16" rx="3" fill="#5a1735"><title>2026-10-25: 0 contributions</title></rect>
     <defs>
-    <path id="flow-0" d="M307.0 126.4 L299.5 125.6 L291.9 123.6 L284.3 120.7 L276.7 117.1 L269.1 112.9 L261.7 108.5 L254.3 103.8 L247.0 99.1 L239.8 94.5 L232.8 90.2 L225.8 86.1 L218.9 82.4 L212.0 79.2 L205.1 76.3 L198.1 73.7 L191.1 71.4 L184.1 69.2 L177.1 67.0 L170.2 64.7 L163.3 62.1 L156.6 59.3 L149.9 56.3 L143.3 52.9 L136.7 49.3 L130.0 45.6 L123.2 41.9 L116.2 38.2 L109.0 34.6 L101.6 31.2 L93.9 28.1 L86.1 25.2 L78.0 22.8 L69.8 20.7 L61.5 19.0 L53.3 17.6 L45.1 16.5 L37.0 15.6 L29.0 14.9 L21.2 14.2 L13.5 13.6 L5.9 13.0"/>
-<path id="flow-1" d="M307.0 126.6 L299.4 125.9 L291.9 124.0 L284.5 121.2 L277.3 117.7 L270.2 113.6 L263.2 109.2 L256.4 104.6 L249.8 100.0 L243.5 95.3 L237.3 90.8 L231.2 86.5 L225.3 82.6 L219.4 79.0 L213.6 75.8 L207.7 73.0 L201.8 70.5 L195.9 68.3 L190.0 66.3 L184.1 64.4 L178.1 62.6 L172.2 60.7 L166.3 58.8 L160.4 56.7 L154.5 54.5 L148.7 52.1 L142.7 49.7 L136.7 47.1 L130.6 44.4 L124.3 41.8 L117.8 39.3 L111.0 36.9 L103.8 34.6 L96.4 32.7 L88.7 31.0 L80.6 29.7 L72.3 28.8 L63.8 28.2 L55.1 28.0 L46.4 28.1 L37.6 28.4 L28.9 28.7 L20.3 28.9 L11.7 29.1 L3.2 29.0"/>
-<path id="flow-2" d="M307.0 126.9 L299.3 126.1 L291.6 124.4 L283.8 121.8 L276.0 118.7 L268.3 115.1 L260.7 111.2 L253.1 107.3 L245.6 103.2 L238.3 99.3 L231.0 95.6 L223.9 92.2 L216.8 89.1 L209.7 86.4 L202.6 84.0 L195.5 81.9 L188.4 80.0 L181.2 78.1 L174.2 76.2 L167.2 74.1 L160.3 71.8 L153.5 69.1 L146.9 66.2 L140.4 62.9 L134.0 59.4 L127.6 55.8 L121.2 52.1 L114.6 48.4 L107.9 44.9 L101.0 41.7 L93.8 38.7 L86.5 36.0 L78.9 33.8 L71.2 31.9 L63.3 30.5 L55.4 29.5 L47.6 28.8 L39.7 28.4 L32.0 28.1 L24.3 28.0 L16.7 27.9 L9.3 27.8 L1.9 27.6"/>
-<path id="flow-3" d="M307.0 127.1 L299.3 126.4 L291.8 124.7 L284.3 122.3 L276.9 119.3 L269.7 115.8 L262.7 112.0 L255.8 108.0 L249.1 103.9 L242.6 99.9 L236.3 96.0 L230.1 92.4 L224.0 89.0 L218.1 85.9 L212.1 83.3 L206.2 80.9 L200.3 78.9 L194.3 77.1 L188.4 75.4 L182.4 73.9 L176.4 72.5 L170.5 70.9 L164.5 69.3 L158.7 67.5 L152.8 65.6 L147.0 63.5 L141.2 61.1 L135.4 58.7 L129.5 56.2 L123.5 53.6 L117.3 51.1 L111.0 48.7 L104.3 46.5 L97.4 44.6 L90.2 43.0 L82.7 41.7 L75.0 40.9 L67.0 40.5 L58.9 40.4 L50.7 40.7 L42.4 41.3 L34.0 42.0 L25.7 42.7 L17.4 43.3 L9.0 43.7 L0.7 43.9"/>
-<path id="flow-4" d="M307.0 127.3 L299.9 126.7 L292.8 125.1 L285.7 122.9 L278.7 120.1 L271.7 117.0 L264.8 113.6 L258.0 110.1 L251.2 106.5 L244.5 103.0 L238.0 99.7 L231.5 96.6 L225.0 93.8 L218.5 91.3 L212.0 89.2 L205.5 87.5 L198.8 86.1 L192.1 84.9 L185.3 83.9 L178.3 82.9 L171.3 82.0 L164.3 80.8 L157.2 79.4 L150.2 77.7 L143.2 75.6 L136.3 73.2 L129.5 70.5 L122.7 67.6 L115.8 64.7 L108.9 61.8 L101.8 59.0 L94.6 56.4 L87.2 54.2 L79.6 52.4 L71.9 50.9 L64.0 49.9 L56.1 49.2 L48.1 48.8 L40.1 48.6 L32.1 48.5 L24.2 48.4 L16.3 48.3 L8.5 47.9 L0.8 47.4"/>
-<path id="flow-5" d="M307.0 127.5 L299.3 126.9 L291.7 125.5 L283.9 123.6 L276.2 121.1 L268.5 118.4 L260.8 115.4 L253.2 112.4 L245.7 109.4 L238.2 106.5 L230.8 103.8 L223.5 101.3 L216.1 99.1 L208.7 97.2 L201.3 95.6 L193.9 94.2 L186.3 92.9 L178.7 91.7 L171.1 90.4 L163.4 88.9 L155.9 87.0 L148.5 84.7 L141.2 82.0 L134.2 78.9 L127.4 75.6 L120.7 72.0 L114.2 68.4 L107.7 65.0 L101.1 61.7 L94.5 58.7 L87.7 56.1 L80.9 53.9 L73.9 52.1 L66.8 50.8 L59.6 49.9 L52.4 49.4 L45.2 49.2 L38.0 49.3 L30.8 49.4 L23.6 49.7 L16.5 49.9 L9.3 50.1 L2.2 50.2"/>
-<path id="flow-6" d="M307.0 127.8 L299.9 127.2 L292.8 125.9 L285.7 124.0 L278.7 121.7 L271.8 119.0 L264.9 116.2 L258.1 113.2 L251.4 110.2 L244.8 107.2 L238.3 104.4 L231.8 101.8 L225.4 99.5 L219.0 97.5 L212.5 95.8 L206.0 94.4 L199.4 93.3 L192.7 92.4 L185.8 91.8 L178.8 91.2 L171.6 90.5 L164.3 89.8 L157.0 88.8 L149.7 87.5 L142.3 85.8 L135.0 83.7 L127.9 81.4 L120.7 78.8 L113.7 76.1 L106.7 73.5 L99.6 71.0 L92.5 68.8 L85.3 67.0 L78.0 65.5 L70.6 64.4 L63.1 63.8 L55.6 63.5 L48.0 63.5 L40.4 63.6 L32.7 63.9 L25.0 64.0 L17.3 64.1 L9.5 64.1 L1.8 63.8"/>
-<path id="flow-7" d="M307.0 128.0 L299.0 127.5 L290.9 126.4 L282.8 124.8 L274.8 122.9 L266.8 120.7 L258.9 118.4 L251.0 116.0 L243.3 113.7 L235.6 111.4 L228.0 109.2 L220.5 107.3 L213.0 105.5 L205.5 104.0 L198.0 102.6 L190.4 101.5 L182.7 100.4 L175.0 99.2 L167.2 97.9 L159.5 96.3 L151.9 94.4 L144.4 92.0 L137.2 89.3 L130.2 86.2 L123.5 82.9 L117.0 79.5 L110.6 76.1 L104.4 72.9 L98.2 70.0 L92.0 67.4 L85.8 65.3 L79.5 63.5 L73.1 62.3 L66.7 61.5 L60.1 61.1 L53.6 61.1 L46.9 61.4 L40.3 61.9 L33.6 62.6 L26.8 63.4 L20.0 64.2 L13.0 65.0 L6.0 65.7"/>
-<path id="flow-8" d="M307.0 128.2 L299.9 127.7 L292.8 126.6 L285.7 125.1 L278.7 123.2 L271.7 121.1 L264.8 118.9 L257.9 116.5 L251.1 114.2 L244.3 111.9 L237.6 109.8 L230.9 107.9 L224.2 106.2 L217.4 104.8 L210.6 103.7 L203.6 102.8 L196.5 102.3 L189.2 101.9 L181.7 101.6 L174.0 101.4 L166.1 101.0 L158.0 100.4 L149.8 99.5 L141.6 98.1 L133.4 96.3 L125.4 94.1 L117.5 91.7 L109.8 89.1 L102.3 86.6 L94.9 84.3 L87.5 82.2 L80.3 80.5 L73.1 79.3 L65.9 78.4 L58.6 77.8 L51.4 77.6 L44.1 77.6 L36.8 77.7 L29.4 77.8 L22.0 77.8 L14.6 77.8 L7.1 77.6 L-0.5 77.3"/>
-<path id="flow-9" d="M307.0 128.5 L299.9 128.0 L292.8 127.0 L285.7 125.6 L278.7 124.0 L271.7 122.1 L264.8 120.1 L258.0 118.1 L251.2 116.0 L244.4 114.0 L237.7 112.2 L231.1 110.5 L224.4 109.0 L217.6 107.8 L210.8 106.8 L203.9 106.2 L196.8 105.7 L189.5 105.5 L182.0 105.4 L174.2 105.3 L166.2 105.1 L158.0 104.7 L149.7 104.0 L141.3 102.8 L132.9 101.3 L124.6 99.3 L116.5 97.1 L108.5 94.9 L100.8 92.6 L93.2 90.6 L85.7 88.8 L78.4 87.5 L71.1 86.5 L63.8 85.8 L56.5 85.5 L49.2 85.5 L41.9 85.6 L34.5 85.7 L27.1 85.9 L19.6 86.0 L12.0 85.9 L4.4 85.7"/>
-<path id="flow-10" d="M307.0 128.7 L299.8 128.2 L292.5 127.4 L285.2 126.3 L278.0 124.9 L270.7 123.4 L263.4 121.9 L256.1 120.3 L248.8 118.8 L241.6 117.4 L234.3 116.1 L227.0 115.1 L219.6 114.2 L212.1 113.6 L204.4 113.2 L196.6 113.0 L188.5 113.0 L180.2 113.0 L171.6 113.0 L162.8 112.8 L153.8 112.2 L144.7 111.2 L135.6 109.7 L126.7 107.8 L118.0 105.4 L109.6 102.9 L101.5 100.3 L93.7 97.9 L86.2 95.7 L78.9 93.8 L71.7 92.3 L64.7 91.2 L57.8 90.4 L50.9 89.9 L44.0 89.6 L37.1 89.5 L30.2 89.4 L23.2 89.3 L16.2 89.2 L9.2 89.1 L2.1 88.9"/>
-<path id="flow-11" d="M307.0 128.9 L299.6 128.5 L292.2 127.8 L284.8 126.9 L277.3 125.8 L269.9 124.6 L262.4 123.5 L254.9 122.3 L247.4 121.2 L239.9 120.2 L232.4 119.3 L224.8 118.6 L217.1 118.1 L209.3 117.9 L201.4 117.8 L193.2 117.8 L184.8 117.9 L176.1 118.0 L167.2 118.0 L158.1 117.7 L148.8 117.0 L139.5 115.8 L130.3 114.1 L121.3 112.0 L112.6 109.7 L104.2 107.2 L96.2 104.7 L88.5 102.5 L81.1 100.6 L74.0 99.0 L66.9 97.7 L60.1 96.8 L53.2 96.2 L46.5 95.8 L39.7 95.6 L32.9 95.5 L26.1 95.5 L19.3 95.5 L12.4 95.4 L5.4 95.4"/>
-<path id="flow-12" d="M307.0 129.1 L299.7 128.8 L292.5 128.1 L285.4 127.3 L278.3 126.3 L271.3 125.2 L264.3 124.1 L257.5 122.9 L250.6 121.7 L243.9 120.6 L237.1 119.5 L230.4 118.6 L223.6 117.9 L216.8 117.4 L209.9 117.0 L202.8 116.9 L195.6 117.0 L188.1 117.2 L180.4 117.4 L172.4 117.7 L164.1 117.9 L155.5 117.9 L146.7 117.7 L137.8 117.0 L128.9 116.1 L120.1 114.8 L111.4 113.5 L102.9 112.1 L94.6 110.8 L86.5 109.8 L78.6 109.0 L70.8 108.6 L63.2 108.4 L55.5 108.5 L47.8 108.7 L40.2 109.0 L32.5 109.3 L24.7 109.5 L16.9 109.7 L9.0 109.7 L1.1 109.6"/>
-<path id="flow-13" d="M307.0 129.4 L298.8 129.1 L290.6 128.8 L282.5 128.4 L274.4 127.9 L266.4 127.5 L258.4 127.0 L250.6 126.5 L242.8 126.0 L235.1 125.5 L227.4 125.1 L219.8 124.7 L212.2 124.4 L204.5 124.2 L196.7 124.1 L188.8 124.0 L180.8 123.8 L172.6 123.6 L164.3 123.3 L155.8 122.7 L147.3 121.7 L138.7 120.5 L130.3 118.9 L122.1 117.1 L114.0 115.1 L106.3 113.1 L98.8 111.3 L91.6 109.7 L84.6 108.4 L77.8 107.6 L71.1 107.0 L64.4 106.9 L57.8 107.1 L51.2 107.5 L44.5 108.1 L37.7 108.9 L30.9 109.8 L23.9 110.7 L16.7 111.6 L9.5 112.5 L2.1 113.4"/>
-<path id="flow-14" d="M307.0 129.6 L299.0 129.3 L291.2 129.1 L283.4 128.8 L275.7 128.4 L268.1 128.0 L260.6 127.6 L253.2 127.2 L245.9 126.8 L238.7 126.3 L231.5 126.0 L224.4 125.7 L217.3 125.4 L210.1 125.3 L202.9 125.2 L195.6 125.3 L188.1 125.4 L180.4 125.6 L172.5 125.7 L164.5 125.7 L156.2 125.6 L147.8 125.2 L139.3 124.6 L130.8 123.7 L122.3 122.6 L114.1 121.4 L105.9 120.3 L98.0 119.3 L90.3 118.5 L82.7 118.1 L75.3 118.0 L67.9 118.1 L60.6 118.6 L53.2 119.2 L45.8 120.0 L38.3 120.9 L30.8 121.9 L23.1 122.8 L15.3 123.6 L7.4 124.4 L-0.6 125.0"/>
-    <linearGradient id="cometTint" gradientUnits="userSpaceOnUse" x1="6.160000000000025" y1="0" x2="308" y2="0"><stop stop-color="#bd2384" stop-opacity="0"/><stop offset=".38" stop-color="#ef329e" stop-opacity=".45"/><stop offset=".8" stop-color="#ff84ce"/><stop offset="1" stop-color="#ffe4f5"/></linearGradient>
+    <path id="flow-0" d="M287.0 126.4 L279.5 125.6 L271.9 123.6 L264.4 120.7 L256.8 117.1 L249.3 113.0 L241.8 108.5 L234.5 104.0 L227.3 99.4 L220.2 95.0 L213.2 90.9 L206.2 87.1 L199.3 83.7 L192.4 80.6 L185.4 77.9 L178.5 75.4 L171.5 73.1 L164.6 70.7 L157.8 68.2 L151.0 65.5 L144.3 62.4 L137.7 59.1 L131.1 55.5 L124.5 51.7 L117.8 47.8 L110.9 43.8 L103.9 39.9 L96.6 36.2 L89.0 32.8 L81.2 29.7 L73.2 27.0 L65.0 24.6 L56.7 22.7 L48.4 21.1 L40.1 19.8 L32.0 18.7 L24.0 17.8 L16.1 16.9 L8.3 16.0 L0.7 15.2"/>
+<path id="flow-1" d="M287.0 126.6 L279.4 125.9 L272.0 124.0 L264.6 121.2 L257.4 117.7 L250.3 113.7 L243.4 109.3 L236.6 104.8 L230.1 100.2 L223.8 95.7 L217.6 91.4 L211.6 87.4 L205.7 83.7 L199.8 80.3 L194.0 77.4 L188.2 74.7 L182.4 72.3 L176.6 70.1 L170.7 68.0 L164.9 66.0 L159.2 63.9 L153.4 61.6 L147.7 59.3 L142.0 56.8 L136.2 54.1 L130.4 51.3 L124.5 48.4 L118.4 45.5 L112.1 42.6 L105.6 39.8 L98.8 37.3 L91.6 35.0 L84.1 33.0 L76.4 31.4 L68.3 30.3 L60.0 29.5 L51.5 29.2 L42.9 29.1 L34.3 29.3 L25.7 29.7 L17.1 29.9 L8.6 30.1 L0.1 30.1"/>
+<path id="flow-2" d="M287.0 126.9 L279.3 126.1 L271.6 124.4 L263.9 121.8 L256.1 118.7 L248.5 115.1 L240.8 111.3 L233.3 107.4 L225.9 103.5 L218.6 99.8 L211.3 96.3 L204.1 93.1 L197.0 90.3 L189.8 87.8 L182.7 85.5 L175.5 83.5 L168.4 81.4 L161.3 79.4 L154.3 77.1 L147.4 74.5 L140.6 71.6 L133.9 68.3 L127.4 64.7 L121.0 61.0 L114.5 57.1 L108.0 53.2 L101.4 49.4 L94.5 45.8 L87.4 42.6 L80.1 39.7 L72.6 37.2 L64.9 35.2 L57.1 33.6 L49.2 32.4 L41.4 31.6 L33.5 31.0 L25.8 30.5 L18.1 30.1 L10.6 29.8 L3.1 29.4"/>
+<path id="flow-3" d="M287.0 127.1 L279.3 126.4 L271.8 124.7 L264.3 122.3 L257.0 119.3 L249.8 115.8 L242.8 112.1 L236.0 108.1 L229.3 104.2 L222.9 100.3 L216.6 96.6 L210.4 93.2 L204.3 90.1 L198.3 87.2 L192.3 84.8 L186.4 82.6 L180.4 80.6 L174.5 78.8 L168.6 77.1 L162.6 75.3 L156.8 73.5 L150.9 71.6 L145.1 69.4 L139.4 67.1 L133.7 64.6 L127.9 61.9 L122.2 59.1 L116.4 56.3 L110.4 53.5 L104.2 50.9 L97.8 48.4 L91.1 46.2 L84.1 44.3 L76.9 42.9 L69.3 41.9 L61.5 41.3 L53.6 41.2 L45.5 41.4 L37.4 42.0 L29.2 42.6 L20.9 43.3 L12.7 44.0 L4.4 44.4"/>
+<path id="flow-4" d="M287.0 127.3 L279.9 126.7 L272.8 125.1 L265.8 122.9 L258.8 120.1 L251.8 117.0 L245.0 113.7 L238.2 110.2 L231.5 106.8 L224.8 103.4 L218.3 100.2 L211.8 97.3 L205.3 94.7 L198.8 92.5 L192.2 90.6 L185.6 89.0 L178.8 87.7 L172.0 86.5 L165.1 85.3 L158.2 84.1 L151.2 82.7 L144.2 80.9 L137.2 78.9 L130.3 76.5 L123.5 73.8 L116.7 70.8 L109.9 67.8 L103.1 64.7 L96.2 61.8 L89.1 59.1 L81.8 56.7 L74.4 54.8 L66.8 53.2 L59.0 52.1 L51.1 51.4 L43.1 51.0 L35.2 50.8 L27.2 50.7 L19.2 50.6 L11.3 50.4 L3.4 50.0"/>
+<path id="flow-5" d="M287.0 127.5 L279.4 126.9 L271.7 125.5 L264.0 123.5 L256.3 121.1 L248.6 118.4 L241.0 115.5 L233.4 112.6 L225.9 109.7 L218.4 106.9 L211.0 104.4 L203.6 102.1 L196.2 100.1 L188.7 98.4 L181.1 96.9 L173.5 95.6 L165.8 94.2 L158.1 92.7 L150.3 91.0 L142.7 88.8 L135.2 86.2 L127.9 83.2 L120.9 79.8 L114.0 76.2 L107.3 72.5 L100.7 68.8 L94.2 65.3 L87.5 62.2 L80.8 59.3 L74.0 57.0 L67.1 55.0 L60.0 53.6 L52.9 52.6 L45.7 51.9 L38.5 51.6 L31.3 51.5 L24.1 51.5 L16.9 51.5 L9.7 51.5 L2.6 51.4"/>
+<path id="flow-6" d="M287.0 127.8 L279.9 127.2 L272.8 125.9 L265.8 124.0 L258.8 121.6 L251.9 119.0 L245.1 116.2 L238.3 113.3 L231.6 110.4 L225.1 107.6 L218.5 104.9 L212.1 102.5 L205.6 100.4 L199.1 98.5 L192.6 97.0 L185.9 95.8 L179.2 94.8 L172.3 93.9 L165.2 93.1 L158.1 92.3 L150.8 91.2 L143.5 89.9 L136.2 88.2 L129.0 86.1 L121.8 83.7 L114.8 81.1 L107.8 78.4 L100.8 75.6 L93.9 73.0 L86.9 70.7 L79.8 68.7 L72.7 67.2 L65.4 66.0 L58.0 65.3 L50.5 65.0 L42.9 65.0 L35.3 65.2 L27.6 65.4 L19.9 65.6 L12.1 65.8 L4.2 65.7"/>
+<path id="flow-7" d="M287.0 128.0 L279.0 127.5 L270.9 126.4 L262.9 124.8 L254.9 122.9 L246.9 120.7 L239.0 118.5 L231.2 116.2 L223.4 113.9 L215.8 111.8 L208.1 109.8 L200.5 108.0 L192.9 106.5 L185.2 105.1 L177.5 103.9 L169.7 102.7 L161.8 101.4 L153.9 99.9 L146.0 98.1 L138.3 95.8 L130.7 93.1 L123.5 90.0 L116.4 86.6 L109.7 83.1 L103.2 79.6 L96.9 76.1 L90.7 73.0 L84.5 70.2 L78.3 67.8 L72.0 65.9 L65.7 64.4 L59.2 63.5 L52.8 62.9 L46.2 62.8 L39.6 62.9 L33.0 63.2 L26.3 63.8 L19.5 64.3 L12.7 64.9 L5.8 65.4 L-1.1 65.9"/>
+<path id="flow-8" d="M287.0 128.2 L279.9 127.7 L272.8 126.6 L265.8 125.1 L258.8 123.2 L251.8 121.1 L244.9 118.9 L238.1 116.6 L231.3 114.4 L224.5 112.2 L217.8 110.2 L211.0 108.5 L204.3 107.0 L197.4 105.8 L190.4 104.8 L183.3 104.1 L176.0 103.6 L168.4 103.2 L160.7 102.7 L152.8 102.1 L144.7 101.2 L136.5 100.0 L128.4 98.3 L120.3 96.2 L112.4 93.8 L104.7 91.2 L97.1 88.7 L89.7 86.2 L82.4 84.1 L75.2 82.3 L68.0 80.9 L60.8 80.0 L53.6 79.4 L46.3 79.2 L39.0 79.1 L31.6 79.2 L24.1 79.3 L16.6 79.4 L9.0 79.4 L1.4 79.2"/>
+<path id="flow-9" d="M287.0 128.5 L279.9 128.0 L272.8 127.0 L265.8 125.6 L258.8 124.0 L251.8 122.1 L245.0 120.2 L238.1 118.1 L231.4 116.2 L224.6 114.3 L217.9 112.6 L211.2 111.0 L204.4 109.7 L197.6 108.7 L190.6 107.9 L183.5 107.4 L176.2 107.0 L168.6 106.8 L160.8 106.5 L152.8 106.0 L144.6 105.4 L136.3 104.3 L128.0 102.8 L119.7 101.0 L111.6 98.9 L103.7 96.6 L95.9 94.3 L88.3 92.1 L80.9 90.3 L73.5 88.8 L66.2 87.7 L59.0 87.0 L51.7 86.7 L44.4 86.6 L37.0 86.7 L29.5 86.9 L22.0 87.1 L14.4 87.2 L6.7 87.2 L-1.0 87.1"/>
+<path id="flow-10" d="M287.0 128.7 L279.8 128.2 L272.5 127.4 L265.3 126.2 L258.0 124.9 L250.8 123.4 L243.5 121.9 L236.3 120.4 L229.0 119.0 L221.7 117.7 L214.4 116.5 L207.0 115.6 L199.5 114.9 L191.9 114.5 L184.0 114.3 L175.9 114.1 L167.6 114.1 L159.0 113.9 L150.1 113.5 L141.1 112.8 L132.0 111.6 L122.9 109.9 L114.0 107.8 L105.4 105.4 L97.1 102.9 L89.2 100.4 L81.5 98.1 L74.0 96.2 L66.7 94.6 L59.5 93.4 L52.4 92.5 L45.4 91.9 L38.4 91.5 L31.3 91.3 L24.3 91.1 L17.1 91.0 L10.0 90.8 L2.8 90.5"/>
+<path id="flow-11" d="M287.0 128.9 L279.6 128.5 L272.3 127.8 L264.8 126.9 L257.4 125.8 L250.0 124.7 L242.5 123.5 L235.0 122.4 L227.6 121.3 L220.1 120.4 L212.5 119.7 L204.8 119.2 L197.0 118.9 L189.0 118.7 L180.8 118.7 L172.4 118.8 L163.7 118.9 L154.7 118.7 L145.5 118.3 L136.2 117.4 L126.9 116.1 L117.7 114.3 L108.8 112.1 L100.2 109.7 L91.9 107.3 L84.0 105.0 L76.3 103.0 L68.9 101.3 L61.7 99.9 L54.7 98.9 L47.7 98.1 L40.8 97.7 L33.8 97.3 L26.9 97.1 L20.0 97.0 L13.0 96.8 L5.9 96.6 L-1.1 96.4"/>
+<path id="flow-12" d="M287.0 129.1 L279.7 128.8 L272.6 128.1 L265.4 127.3 L258.4 126.3 L251.4 125.2 L244.5 124.1 L237.6 122.9 L230.8 121.8 L224.0 120.8 L217.2 119.9 L210.5 119.1 L203.6 118.6 L196.7 118.2 L189.6 118.0 L182.3 118.0 L174.8 118.1 L167.0 118.2 L158.9 118.3 L150.6 118.3 L142.0 118.1 L133.3 117.5 L124.5 116.6 L115.7 115.4 L107.1 114.0 L98.6 112.6 L90.4 111.2 L82.3 110.1 L74.4 109.2 L66.6 108.7 L59.0 108.4 L51.3 108.5 L43.7 108.7 L36.0 109.1 L28.2 109.5 L20.4 109.8 L12.6 110.1 L4.6 110.3"/>
+<path id="flow-13" d="M287.0 129.4 L278.8 129.1 L270.6 128.8 L262.5 128.4 L254.5 127.9 L246.5 127.5 L238.5 127.0 L230.7 126.6 L222.9 126.2 L215.2 125.8 L207.4 125.5 L199.7 125.3 L191.9 125.1 L184.0 125.0 L175.9 125.0 L167.8 124.8 L159.4 124.5 L150.9 124.1 L142.4 123.3 L133.8 122.2 L125.2 120.7 L116.8 118.9 L108.7 116.9 L100.8 114.8 L93.2 112.8 L85.9 111.0 L78.8 109.5 L72.0 108.3 L65.2 107.6 L58.6 107.2 L52.0 107.1 L45.4 107.3 L38.8 107.8 L32.1 108.4 L25.3 109.1 L18.4 109.9 L11.4 110.7 L4.2 111.6"/>
+<path id="flow-14" d="M287.0 129.6 L279.1 129.3 L271.2 129.1 L263.4 128.8 L255.7 128.4 L248.2 128.1 L240.7 127.7 L233.3 127.3 L226.0 126.9 L218.8 126.6 L211.6 126.3 L204.3 126.1 L197.1 126.0 L189.8 126.0 L182.3 126.1 L174.7 126.2 L166.9 126.3 L158.9 126.3 L150.7 126.2 L142.4 125.8 L134.0 125.2 L125.5 124.3 L117.1 123.2 L108.8 121.9 L100.7 120.6 L92.8 119.4 L85.1 118.5 L77.6 117.8 L70.3 117.4 L63.0 117.4 L55.7 117.6 L48.5 118.2 L41.2 118.9 L33.9 119.7 L26.4 120.7 L18.8 121.6 L11.2 122.5 L3.4 123.3"/>
+    <linearGradient id="cometTint" gradientUnits="userSpaceOnUse" x1="5.759999999999991" y1="0" x2="288" y2="0"><stop stop-color="#bd2384" stop-opacity="0"/><stop offset=".38" stop-color="#ef329e" stop-opacity=".45"/><stop offset=".8" stop-color="#ff84ce"/><stop offset="1" stop-color="#ffe4f5"/></linearGradient>
     <radialGradient id="coma"><stop stop-color="#fff9fd" stop-opacity=".95"/><stop offset=".22" stop-color="#ffb1e8" stop-opacity=".60"/><stop offset=".62" stop-color="#f446bc" stop-opacity=".20"/><stop offset="1" stop-color="#ec278e" stop-opacity="0"/></radialGradient>
     <filter id="mist" filterUnits="userSpaceOnUse" x="-20" y="-20" width="356" height="176"><feGaussianBlur stdDeviation="2.8"/></filter>
     <filter id="cellGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="1.7"/></filter>
   </defs>
   <g clip-path="url(#wallClip)" aria-hidden="true">
-    <g class="comet-wake" fill="none" filter="url(#mist)"><path d="M307.0 126.4 L299.5 125.6 L291.9 123.6 L284.3 120.7 L276.7 117.1 L269.1 112.9 L261.7 108.5 L254.3 103.8 L247.0 99.1 L239.8 94.5 L232.8 90.2 L225.8 86.1 L218.9 82.4 L212.0 79.2 L205.1 76.3 L198.1 73.7 L191.1 71.4 L184.1 69.2 L177.1 67.0 L170.2 64.7 L163.3 62.1 L156.6 59.3 L149.9 56.3 L143.3 52.9 L136.7 49.3 L130.0 45.6 L123.2 41.9 L116.2 38.2 L109.0 34.6 L101.6 31.2 L93.9 28.1 L86.1 25.2 L78.0 22.8 L69.8 20.7 L61.5 19.0 L53.3 17.6 L45.1 16.5 L37.0 15.6 L29.0 14.9 L21.2 14.2 L13.5 13.6 L5.9 13.0" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M307.0 126.6 L299.4 125.9 L291.9 124.0 L284.5 121.2 L277.3 117.7 L270.2 113.6 L263.2 109.2 L256.4 104.6 L249.8 100.0 L243.5 95.3 L237.3 90.8 L231.2 86.5 L225.3 82.6 L219.4 79.0 L213.6 75.8 L207.7 73.0 L201.8 70.5 L195.9 68.3 L190.0 66.3 L184.1 64.4 L178.1 62.6 L172.2 60.7 L166.3 58.8 L160.4 56.7 L154.5 54.5 L148.7 52.1 L142.7 49.7 L136.7 47.1 L130.6 44.4 L124.3 41.8 L117.8 39.3 L111.0 36.9 L103.8 34.6 L96.4 32.7 L88.7 31.0 L80.6 29.7 L72.3 28.8 L63.8 28.2 L55.1 28.0 L46.4 28.1 L37.6 28.4 L28.9 28.7 L20.3 28.9 L11.7 29.1 L3.2 29.0" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 126.9 L299.3 126.1 L291.6 124.4 L283.8 121.8 L276.0 118.7 L268.3 115.1 L260.7 111.2 L253.1 107.3 L245.6 103.2 L238.3 99.3 L231.0 95.6 L223.9 92.2 L216.8 89.1 L209.7 86.4 L202.6 84.0 L195.5 81.9 L188.4 80.0 L181.2 78.1 L174.2 76.2 L167.2 74.1 L160.3 71.8 L153.5 69.1 L146.9 66.2 L140.4 62.9 L134.0 59.4 L127.6 55.8 L121.2 52.1 L114.6 48.4 L107.9 44.9 L101.0 41.7 L93.8 38.7 L86.5 36.0 L78.9 33.8 L71.2 31.9 L63.3 30.5 L55.4 29.5 L47.6 28.8 L39.7 28.4 L32.0 28.1 L24.3 28.0 L16.7 27.9 L9.3 27.8 L1.9 27.6" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 127.1 L299.3 126.4 L291.8 124.7 L284.3 122.3 L276.9 119.3 L269.7 115.8 L262.7 112.0 L255.8 108.0 L249.1 103.9 L242.6 99.9 L236.3 96.0 L230.1 92.4 L224.0 89.0 L218.1 85.9 L212.1 83.3 L206.2 80.9 L200.3 78.9 L194.3 77.1 L188.4 75.4 L182.4 73.9 L176.4 72.5 L170.5 70.9 L164.5 69.3 L158.7 67.5 L152.8 65.6 L147.0 63.5 L141.2 61.1 L135.4 58.7 L129.5 56.2 L123.5 53.6 L117.3 51.1 L111.0 48.7 L104.3 46.5 L97.4 44.6 L90.2 43.0 L82.7 41.7 L75.0 40.9 L67.0 40.5 L58.9 40.4 L50.7 40.7 L42.4 41.3 L34.0 42.0 L25.7 42.7 L17.4 43.3 L9.0 43.7 L0.7 43.9" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M307.0 127.3 L299.9 126.7 L292.8 125.1 L285.7 122.9 L278.7 120.1 L271.7 117.0 L264.8 113.6 L258.0 110.1 L251.2 106.5 L244.5 103.0 L238.0 99.7 L231.5 96.6 L225.0 93.8 L218.5 91.3 L212.0 89.2 L205.5 87.5 L198.8 86.1 L192.1 84.9 L185.3 83.9 L178.3 82.9 L171.3 82.0 L164.3 80.8 L157.2 79.4 L150.2 77.7 L143.2 75.6 L136.3 73.2 L129.5 70.5 L122.7 67.6 L115.8 64.7 L108.9 61.8 L101.8 59.0 L94.6 56.4 L87.2 54.2 L79.6 52.4 L71.9 50.9 L64.0 49.9 L56.1 49.2 L48.1 48.8 L40.1 48.6 L32.1 48.5 L24.2 48.4 L16.3 48.3 L8.5 47.9 L0.8 47.4" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 127.5 L299.3 126.9 L291.7 125.5 L283.9 123.6 L276.2 121.1 L268.5 118.4 L260.8 115.4 L253.2 112.4 L245.7 109.4 L238.2 106.5 L230.8 103.8 L223.5 101.3 L216.1 99.1 L208.7 97.2 L201.3 95.6 L193.9 94.2 L186.3 92.9 L178.7 91.7 L171.1 90.4 L163.4 88.9 L155.9 87.0 L148.5 84.7 L141.2 82.0 L134.2 78.9 L127.4 75.6 L120.7 72.0 L114.2 68.4 L107.7 65.0 L101.1 61.7 L94.5 58.7 L87.7 56.1 L80.9 53.9 L73.9 52.1 L66.8 50.8 L59.6 49.9 L52.4 49.4 L45.2 49.2 L38.0 49.3 L30.8 49.4 L23.6 49.7 L16.5 49.9 L9.3 50.1 L2.2 50.2" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 127.8 L299.9 127.2 L292.8 125.9 L285.7 124.0 L278.7 121.7 L271.8 119.0 L264.9 116.2 L258.1 113.2 L251.4 110.2 L244.8 107.2 L238.3 104.4 L231.8 101.8 L225.4 99.5 L219.0 97.5 L212.5 95.8 L206.0 94.4 L199.4 93.3 L192.7 92.4 L185.8 91.8 L178.8 91.2 L171.6 90.5 L164.3 89.8 L157.0 88.8 L149.7 87.5 L142.3 85.8 L135.0 83.7 L127.9 81.4 L120.7 78.8 L113.7 76.1 L106.7 73.5 L99.6 71.0 L92.5 68.8 L85.3 67.0 L78.0 65.5 L70.6 64.4 L63.1 63.8 L55.6 63.5 L48.0 63.5 L40.4 63.6 L32.7 63.9 L25.0 64.0 L17.3 64.1 L9.5 64.1 L1.8 63.8" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M307.0 128.0 L299.0 127.5 L290.9 126.4 L282.8 124.8 L274.8 122.9 L266.8 120.7 L258.9 118.4 L251.0 116.0 L243.3 113.7 L235.6 111.4 L228.0 109.2 L220.5 107.3 L213.0 105.5 L205.5 104.0 L198.0 102.6 L190.4 101.5 L182.7 100.4 L175.0 99.2 L167.2 97.9 L159.5 96.3 L151.9 94.4 L144.4 92.0 L137.2 89.3 L130.2 86.2 L123.5 82.9 L117.0 79.5 L110.6 76.1 L104.4 72.9 L98.2 70.0 L92.0 67.4 L85.8 65.3 L79.5 63.5 L73.1 62.3 L66.7 61.5 L60.1 61.1 L53.6 61.1 L46.9 61.4 L40.3 61.9 L33.6 62.6 L26.8 63.4 L20.0 64.2 L13.0 65.0 L6.0 65.7" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 128.2 L299.9 127.7 L292.8 126.6 L285.7 125.1 L278.7 123.2 L271.7 121.1 L264.8 118.9 L257.9 116.5 L251.1 114.2 L244.3 111.9 L237.6 109.8 L230.9 107.9 L224.2 106.2 L217.4 104.8 L210.6 103.7 L203.6 102.8 L196.5 102.3 L189.2 101.9 L181.7 101.6 L174.0 101.4 L166.1 101.0 L158.0 100.4 L149.8 99.5 L141.6 98.1 L133.4 96.3 L125.4 94.1 L117.5 91.7 L109.8 89.1 L102.3 86.6 L94.9 84.3 L87.5 82.2 L80.3 80.5 L73.1 79.3 L65.9 78.4 L58.6 77.8 L51.4 77.6 L44.1 77.6 L36.8 77.7 L29.4 77.8 L22.0 77.8 L14.6 77.8 L7.1 77.6 L-0.5 77.3" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 128.5 L299.9 128.0 L292.8 127.0 L285.7 125.6 L278.7 124.0 L271.7 122.1 L264.8 120.1 L258.0 118.1 L251.2 116.0 L244.4 114.0 L237.7 112.2 L231.1 110.5 L224.4 109.0 L217.6 107.8 L210.8 106.8 L203.9 106.2 L196.8 105.7 L189.5 105.5 L182.0 105.4 L174.2 105.3 L166.2 105.1 L158.0 104.7 L149.7 104.0 L141.3 102.8 L132.9 101.3 L124.6 99.3 L116.5 97.1 L108.5 94.9 L100.8 92.6 L93.2 90.6 L85.7 88.8 L78.4 87.5 L71.1 86.5 L63.8 85.8 L56.5 85.5 L49.2 85.5 L41.9 85.6 L34.5 85.7 L27.1 85.9 L19.6 86.0 L12.0 85.9 L4.4 85.7" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M307.0 128.7 L299.8 128.2 L292.5 127.4 L285.2 126.3 L278.0 124.9 L270.7 123.4 L263.4 121.9 L256.1 120.3 L248.8 118.8 L241.6 117.4 L234.3 116.1 L227.0 115.1 L219.6 114.2 L212.1 113.6 L204.4 113.2 L196.6 113.0 L188.5 113.0 L180.2 113.0 L171.6 113.0 L162.8 112.8 L153.8 112.2 L144.7 111.2 L135.6 109.7 L126.7 107.8 L118.0 105.4 L109.6 102.9 L101.5 100.3 L93.7 97.9 L86.2 95.7 L78.9 93.8 L71.7 92.3 L64.7 91.2 L57.8 90.4 L50.9 89.9 L44.0 89.6 L37.1 89.5 L30.2 89.4 L23.2 89.3 L16.2 89.2 L9.2 89.1 L2.1 88.9" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 128.9 L299.6 128.5 L292.2 127.8 L284.8 126.9 L277.3 125.8 L269.9 124.6 L262.4 123.5 L254.9 122.3 L247.4 121.2 L239.9 120.2 L232.4 119.3 L224.8 118.6 L217.1 118.1 L209.3 117.9 L201.4 117.8 L193.2 117.8 L184.8 117.9 L176.1 118.0 L167.2 118.0 L158.1 117.7 L148.8 117.0 L139.5 115.8 L130.3 114.1 L121.3 112.0 L112.6 109.7 L104.2 107.2 L96.2 104.7 L88.5 102.5 L81.1 100.6 L74.0 99.0 L66.9 97.7 L60.1 96.8 L53.2 96.2 L46.5 95.8 L39.7 95.6 L32.9 95.5 L26.1 95.5 L19.3 95.5 L12.4 95.4 L5.4 95.4" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 129.1 L299.7 128.8 L292.5 128.1 L285.4 127.3 L278.3 126.3 L271.3 125.2 L264.3 124.1 L257.5 122.9 L250.6 121.7 L243.9 120.6 L237.1 119.5 L230.4 118.6 L223.6 117.9 L216.8 117.4 L209.9 117.0 L202.8 116.9 L195.6 117.0 L188.1 117.2 L180.4 117.4 L172.4 117.7 L164.1 117.9 L155.5 117.9 L146.7 117.7 L137.8 117.0 L128.9 116.1 L120.1 114.8 L111.4 113.5 L102.9 112.1 L94.6 110.8 L86.5 109.8 L78.6 109.0 L70.8 108.6 L63.2 108.4 L55.5 108.5 L47.8 108.7 L40.2 109.0 L32.5 109.3 L24.7 109.5 L16.9 109.7 L9.0 109.7 L1.1 109.6" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M307.0 129.4 L298.8 129.1 L290.6 128.8 L282.5 128.4 L274.4 127.9 L266.4 127.5 L258.4 127.0 L250.6 126.5 L242.8 126.0 L235.1 125.5 L227.4 125.1 L219.8 124.7 L212.2 124.4 L204.5 124.2 L196.7 124.1 L188.8 124.0 L180.8 123.8 L172.6 123.6 L164.3 123.3 L155.8 122.7 L147.3 121.7 L138.7 120.5 L130.3 118.9 L122.1 117.1 L114.0 115.1 L106.3 113.1 L98.8 111.3 L91.6 109.7 L84.6 108.4 L77.8 107.6 L71.1 107.0 L64.4 106.9 L57.8 107.1 L51.2 107.5 L44.5 108.1 L37.7 108.9 L30.9 109.8 L23.9 110.7 L16.7 111.6 L9.5 112.5 L2.1 113.4" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M307.0 129.6 L299.0 129.3 L291.2 129.1 L283.4 128.8 L275.7 128.4 L268.1 128.0 L260.6 127.6 L253.2 127.2 L245.9 126.8 L238.7 126.3 L231.5 126.0 L224.4 125.7 L217.3 125.4 L210.1 125.3 L202.9 125.2 L195.6 125.3 L188.1 125.4 L180.4 125.6 L172.5 125.7 L164.5 125.7 L156.2 125.6 L147.8 125.2 L139.3 124.6 L130.8 123.7 L122.3 122.6 L114.1 121.4 L105.9 120.3 L98.0 119.3 L90.3 118.5 L82.7 118.1 L75.3 118.0 L67.9 118.1 L60.6 118.6 L53.2 119.2 L45.8 120.0 L38.3 120.9 L30.8 121.9 L23.1 122.8 L15.3 123.6 L7.4 124.4 L-0.6 125.0" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/></g>
-    <g class="comet-wake" fill="none"><path d="M307.0 126.4 L299.5 125.6 L291.9 123.6 L284.3 120.7 L276.7 117.1 L269.1 112.9 L261.7 108.5 L254.3 103.8 L247.0 99.1 L239.8 94.5 L232.8 90.2 L225.8 86.1 L218.9 82.4 L212.0 79.2 L205.1 76.3 L198.1 73.7 L191.1 71.4 L184.1 69.2 L177.1 67.0 L170.2 64.7 L163.3 62.1 L156.6 59.3 L149.9 56.3 L143.3 52.9 L136.7 49.3 L130.0 45.6 L123.2 41.9 L116.2 38.2 L109.0 34.6 L101.6 31.2 L93.9 28.1 L86.1 25.2 L78.0 22.8 L69.8 20.7 L61.5 19.0 L53.3 17.6 L45.1 16.5 L37.0 15.6 L29.0 14.9 L21.2 14.2 L13.5 13.6 L5.9 13.0" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 126.6 L299.4 125.9 L291.9 124.0 L284.5 121.2 L277.3 117.7 L270.2 113.6 L263.2 109.2 L256.4 104.6 L249.8 100.0 L243.5 95.3 L237.3 90.8 L231.2 86.5 L225.3 82.6 L219.4 79.0 L213.6 75.8 L207.7 73.0 L201.8 70.5 L195.9 68.3 L190.0 66.3 L184.1 64.4 L178.1 62.6 L172.2 60.7 L166.3 58.8 L160.4 56.7 L154.5 54.5 L148.7 52.1 L142.7 49.7 L136.7 47.1 L130.6 44.4 L124.3 41.8 L117.8 39.3 L111.0 36.9 L103.8 34.6 L96.4 32.7 L88.7 31.0 L80.6 29.7 L72.3 28.8 L63.8 28.2 L55.1 28.0 L46.4 28.1 L37.6 28.4 L28.9 28.7 L20.3 28.9 L11.7 29.1 L3.2 29.0" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 126.9 L299.3 126.1 L291.6 124.4 L283.8 121.8 L276.0 118.7 L268.3 115.1 L260.7 111.2 L253.1 107.3 L245.6 103.2 L238.3 99.3 L231.0 95.6 L223.9 92.2 L216.8 89.1 L209.7 86.4 L202.6 84.0 L195.5 81.9 L188.4 80.0 L181.2 78.1 L174.2 76.2 L167.2 74.1 L160.3 71.8 L153.5 69.1 L146.9 66.2 L140.4 62.9 L134.0 59.4 L127.6 55.8 L121.2 52.1 L114.6 48.4 L107.9 44.9 L101.0 41.7 L93.8 38.7 L86.5 36.0 L78.9 33.8 L71.2 31.9 L63.3 30.5 L55.4 29.5 L47.6 28.8 L39.7 28.4 L32.0 28.1 L24.3 28.0 L16.7 27.9 L9.3 27.8 L1.9 27.6" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 127.1 L299.3 126.4 L291.8 124.7 L284.3 122.3 L276.9 119.3 L269.7 115.8 L262.7 112.0 L255.8 108.0 L249.1 103.9 L242.6 99.9 L236.3 96.0 L230.1 92.4 L224.0 89.0 L218.1 85.9 L212.1 83.3 L206.2 80.9 L200.3 78.9 L194.3 77.1 L188.4 75.4 L182.4 73.9 L176.4 72.5 L170.5 70.9 L164.5 69.3 L158.7 67.5 L152.8 65.6 L147.0 63.5 L141.2 61.1 L135.4 58.7 L129.5 56.2 L123.5 53.6 L117.3 51.1 L111.0 48.7 L104.3 46.5 L97.4 44.6 L90.2 43.0 L82.7 41.7 L75.0 40.9 L67.0 40.5 L58.9 40.4 L50.7 40.7 L42.4 41.3 L34.0 42.0 L25.7 42.7 L17.4 43.3 L9.0 43.7 L0.7 43.9" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 127.3 L299.9 126.7 L292.8 125.1 L285.7 122.9 L278.7 120.1 L271.7 117.0 L264.8 113.6 L258.0 110.1 L251.2 106.5 L244.5 103.0 L238.0 99.7 L231.5 96.6 L225.0 93.8 L218.5 91.3 L212.0 89.2 L205.5 87.5 L198.8 86.1 L192.1 84.9 L185.3 83.9 L178.3 82.9 L171.3 82.0 L164.3 80.8 L157.2 79.4 L150.2 77.7 L143.2 75.6 L136.3 73.2 L129.5 70.5 L122.7 67.6 L115.8 64.7 L108.9 61.8 L101.8 59.0 L94.6 56.4 L87.2 54.2 L79.6 52.4 L71.9 50.9 L64.0 49.9 L56.1 49.2 L48.1 48.8 L40.1 48.6 L32.1 48.5 L24.2 48.4 L16.3 48.3 L8.5 47.9 L0.8 47.4" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 127.5 L299.3 126.9 L291.7 125.5 L283.9 123.6 L276.2 121.1 L268.5 118.4 L260.8 115.4 L253.2 112.4 L245.7 109.4 L238.2 106.5 L230.8 103.8 L223.5 101.3 L216.1 99.1 L208.7 97.2 L201.3 95.6 L193.9 94.2 L186.3 92.9 L178.7 91.7 L171.1 90.4 L163.4 88.9 L155.9 87.0 L148.5 84.7 L141.2 82.0 L134.2 78.9 L127.4 75.6 L120.7 72.0 L114.2 68.4 L107.7 65.0 L101.1 61.7 L94.5 58.7 L87.7 56.1 L80.9 53.9 L73.9 52.1 L66.8 50.8 L59.6 49.9 L52.4 49.4 L45.2 49.2 L38.0 49.3 L30.8 49.4 L23.6 49.7 L16.5 49.9 L9.3 50.1 L2.2 50.2" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 127.8 L299.9 127.2 L292.8 125.9 L285.7 124.0 L278.7 121.7 L271.8 119.0 L264.9 116.2 L258.1 113.2 L251.4 110.2 L244.8 107.2 L238.3 104.4 L231.8 101.8 L225.4 99.5 L219.0 97.5 L212.5 95.8 L206.0 94.4 L199.4 93.3 L192.7 92.4 L185.8 91.8 L178.8 91.2 L171.6 90.5 L164.3 89.8 L157.0 88.8 L149.7 87.5 L142.3 85.8 L135.0 83.7 L127.9 81.4 L120.7 78.8 L113.7 76.1 L106.7 73.5 L99.6 71.0 L92.5 68.8 L85.3 67.0 L78.0 65.5 L70.6 64.4 L63.1 63.8 L55.6 63.5 L48.0 63.5 L40.4 63.6 L32.7 63.9 L25.0 64.0 L17.3 64.1 L9.5 64.1 L1.8 63.8" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 128.0 L299.0 127.5 L290.9 126.4 L282.8 124.8 L274.8 122.9 L266.8 120.7 L258.9 118.4 L251.0 116.0 L243.3 113.7 L235.6 111.4 L228.0 109.2 L220.5 107.3 L213.0 105.5 L205.5 104.0 L198.0 102.6 L190.4 101.5 L182.7 100.4 L175.0 99.2 L167.2 97.9 L159.5 96.3 L151.9 94.4 L144.4 92.0 L137.2 89.3 L130.2 86.2 L123.5 82.9 L117.0 79.5 L110.6 76.1 L104.4 72.9 L98.2 70.0 L92.0 67.4 L85.8 65.3 L79.5 63.5 L73.1 62.3 L66.7 61.5 L60.1 61.1 L53.6 61.1 L46.9 61.4 L40.3 61.9 L33.6 62.6 L26.8 63.4 L20.0 64.2 L13.0 65.0 L6.0 65.7" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 128.2 L299.9 127.7 L292.8 126.6 L285.7 125.1 L278.7 123.2 L271.7 121.1 L264.8 118.9 L257.9 116.5 L251.1 114.2 L244.3 111.9 L237.6 109.8 L230.9 107.9 L224.2 106.2 L217.4 104.8 L210.6 103.7 L203.6 102.8 L196.5 102.3 L189.2 101.9 L181.7 101.6 L174.0 101.4 L166.1 101.0 L158.0 100.4 L149.8 99.5 L141.6 98.1 L133.4 96.3 L125.4 94.1 L117.5 91.7 L109.8 89.1 L102.3 86.6 L94.9 84.3 L87.5 82.2 L80.3 80.5 L73.1 79.3 L65.9 78.4 L58.6 77.8 L51.4 77.6 L44.1 77.6 L36.8 77.7 L29.4 77.8 L22.0 77.8 L14.6 77.8 L7.1 77.6 L-0.5 77.3" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 128.5 L299.9 128.0 L292.8 127.0 L285.7 125.6 L278.7 124.0 L271.7 122.1 L264.8 120.1 L258.0 118.1 L251.2 116.0 L244.4 114.0 L237.7 112.2 L231.1 110.5 L224.4 109.0 L217.6 107.8 L210.8 106.8 L203.9 106.2 L196.8 105.7 L189.5 105.5 L182.0 105.4 L174.2 105.3 L166.2 105.1 L158.0 104.7 L149.7 104.0 L141.3 102.8 L132.9 101.3 L124.6 99.3 L116.5 97.1 L108.5 94.9 L100.8 92.6 L93.2 90.6 L85.7 88.8 L78.4 87.5 L71.1 86.5 L63.8 85.8 L56.5 85.5 L49.2 85.5 L41.9 85.6 L34.5 85.7 L27.1 85.9 L19.6 86.0 L12.0 85.9 L4.4 85.7" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 128.7 L299.8 128.2 L292.5 127.4 L285.2 126.3 L278.0 124.9 L270.7 123.4 L263.4 121.9 L256.1 120.3 L248.8 118.8 L241.6 117.4 L234.3 116.1 L227.0 115.1 L219.6 114.2 L212.1 113.6 L204.4 113.2 L196.6 113.0 L188.5 113.0 L180.2 113.0 L171.6 113.0 L162.8 112.8 L153.8 112.2 L144.7 111.2 L135.6 109.7 L126.7 107.8 L118.0 105.4 L109.6 102.9 L101.5 100.3 L93.7 97.9 L86.2 95.7 L78.9 93.8 L71.7 92.3 L64.7 91.2 L57.8 90.4 L50.9 89.9 L44.0 89.6 L37.1 89.5 L30.2 89.4 L23.2 89.3 L16.2 89.2 L9.2 89.1 L2.1 88.9" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 128.9 L299.6 128.5 L292.2 127.8 L284.8 126.9 L277.3 125.8 L269.9 124.6 L262.4 123.5 L254.9 122.3 L247.4 121.2 L239.9 120.2 L232.4 119.3 L224.8 118.6 L217.1 118.1 L209.3 117.9 L201.4 117.8 L193.2 117.8 L184.8 117.9 L176.1 118.0 L167.2 118.0 L158.1 117.7 L148.8 117.0 L139.5 115.8 L130.3 114.1 L121.3 112.0 L112.6 109.7 L104.2 107.2 L96.2 104.7 L88.5 102.5 L81.1 100.6 L74.0 99.0 L66.9 97.7 L60.1 96.8 L53.2 96.2 L46.5 95.8 L39.7 95.6 L32.9 95.5 L26.1 95.5 L19.3 95.5 L12.4 95.4 L5.4 95.4" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 129.1 L299.7 128.8 L292.5 128.1 L285.4 127.3 L278.3 126.3 L271.3 125.2 L264.3 124.1 L257.5 122.9 L250.6 121.7 L243.9 120.6 L237.1 119.5 L230.4 118.6 L223.6 117.9 L216.8 117.4 L209.9 117.0 L202.8 116.9 L195.6 117.0 L188.1 117.2 L180.4 117.4 L172.4 117.7 L164.1 117.9 L155.5 117.9 L146.7 117.7 L137.8 117.0 L128.9 116.1 L120.1 114.8 L111.4 113.5 L102.9 112.1 L94.6 110.8 L86.5 109.8 L78.6 109.0 L70.8 108.6 L63.2 108.4 L55.5 108.5 L47.8 108.7 L40.2 109.0 L32.5 109.3 L24.7 109.5 L16.9 109.7 L9.0 109.7 L1.1 109.6" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 129.4 L298.8 129.1 L290.6 128.8 L282.5 128.4 L274.4 127.9 L266.4 127.5 L258.4 127.0 L250.6 126.5 L242.8 126.0 L235.1 125.5 L227.4 125.1 L219.8 124.7 L212.2 124.4 L204.5 124.2 L196.7 124.1 L188.8 124.0 L180.8 123.8 L172.6 123.6 L164.3 123.3 L155.8 122.7 L147.3 121.7 L138.7 120.5 L130.3 118.9 L122.1 117.1 L114.0 115.1 L106.3 113.1 L98.8 111.3 L91.6 109.7 L84.6 108.4 L77.8 107.6 L71.1 107.0 L64.4 106.9 L57.8 107.1 L51.2 107.5 L44.5 108.1 L37.7 108.9 L30.9 109.8 L23.9 110.7 L16.7 111.6 L9.5 112.5 L2.1 113.4" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M307.0 129.6 L299.0 129.3 L291.2 129.1 L283.4 128.8 L275.7 128.4 L268.1 128.0 L260.6 127.6 L253.2 127.2 L245.9 126.8 L238.7 126.3 L231.5 126.0 L224.4 125.7 L217.3 125.4 L210.1 125.3 L202.9 125.2 L195.6 125.3 L188.1 125.4 L180.4 125.6 L172.5 125.7 L164.5 125.7 L156.2 125.6 L147.8 125.2 L139.3 124.6 L130.8 123.7 L122.3 122.6 L114.1 121.4 L105.9 120.3 L98.0 119.3 L90.3 118.5 L82.7 118.1 L75.3 118.0 L67.9 118.1 L60.6 118.6 L53.2 119.2 L45.8 120.0 L38.3 120.9 L30.8 121.9 L23.1 122.8 L15.3 123.6 L7.4 124.4 L-0.6 125.0" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/></g>
-    <g class="wake-still"><g class="wake-still-cell" data-date="2026-07-12" opacity="0.120">
+    <g class="comet-wake" fill="none" filter="url(#mist)"><path d="M287.0 126.4 L279.5 125.6 L271.9 123.6 L264.4 120.7 L256.8 117.1 L249.3 113.0 L241.8 108.5 L234.5 104.0 L227.3 99.4 L220.2 95.0 L213.2 90.9 L206.2 87.1 L199.3 83.7 L192.4 80.6 L185.4 77.9 L178.5 75.4 L171.5 73.1 L164.6 70.7 L157.8 68.2 L151.0 65.5 L144.3 62.4 L137.7 59.1 L131.1 55.5 L124.5 51.7 L117.8 47.8 L110.9 43.8 L103.9 39.9 L96.6 36.2 L89.0 32.8 L81.2 29.7 L73.2 27.0 L65.0 24.6 L56.7 22.7 L48.4 21.1 L40.1 19.8 L32.0 18.7 L24.0 17.8 L16.1 16.9 L8.3 16.0 L0.7 15.2" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M287.0 126.6 L279.4 125.9 L272.0 124.0 L264.6 121.2 L257.4 117.7 L250.3 113.7 L243.4 109.3 L236.6 104.8 L230.1 100.2 L223.8 95.7 L217.6 91.4 L211.6 87.4 L205.7 83.7 L199.8 80.3 L194.0 77.4 L188.2 74.7 L182.4 72.3 L176.6 70.1 L170.7 68.0 L164.9 66.0 L159.2 63.9 L153.4 61.6 L147.7 59.3 L142.0 56.8 L136.2 54.1 L130.4 51.3 L124.5 48.4 L118.4 45.5 L112.1 42.6 L105.6 39.8 L98.8 37.3 L91.6 35.0 L84.1 33.0 L76.4 31.4 L68.3 30.3 L60.0 29.5 L51.5 29.2 L42.9 29.1 L34.3 29.3 L25.7 29.7 L17.1 29.9 L8.6 30.1 L0.1 30.1" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 126.9 L279.3 126.1 L271.6 124.4 L263.9 121.8 L256.1 118.7 L248.5 115.1 L240.8 111.3 L233.3 107.4 L225.9 103.5 L218.6 99.8 L211.3 96.3 L204.1 93.1 L197.0 90.3 L189.8 87.8 L182.7 85.5 L175.5 83.5 L168.4 81.4 L161.3 79.4 L154.3 77.1 L147.4 74.5 L140.6 71.6 L133.9 68.3 L127.4 64.7 L121.0 61.0 L114.5 57.1 L108.0 53.2 L101.4 49.4 L94.5 45.8 L87.4 42.6 L80.1 39.7 L72.6 37.2 L64.9 35.2 L57.1 33.6 L49.2 32.4 L41.4 31.6 L33.5 31.0 L25.8 30.5 L18.1 30.1 L10.6 29.8 L3.1 29.4" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 127.1 L279.3 126.4 L271.8 124.7 L264.3 122.3 L257.0 119.3 L249.8 115.8 L242.8 112.1 L236.0 108.1 L229.3 104.2 L222.9 100.3 L216.6 96.6 L210.4 93.2 L204.3 90.1 L198.3 87.2 L192.3 84.8 L186.4 82.6 L180.4 80.6 L174.5 78.8 L168.6 77.1 L162.6 75.3 L156.8 73.5 L150.9 71.6 L145.1 69.4 L139.4 67.1 L133.7 64.6 L127.9 61.9 L122.2 59.1 L116.4 56.3 L110.4 53.5 L104.2 50.9 L97.8 48.4 L91.1 46.2 L84.1 44.3 L76.9 42.9 L69.3 41.9 L61.5 41.3 L53.6 41.2 L45.5 41.4 L37.4 42.0 L29.2 42.6 L20.9 43.3 L12.7 44.0 L4.4 44.4" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M287.0 127.3 L279.9 126.7 L272.8 125.1 L265.8 122.9 L258.8 120.1 L251.8 117.0 L245.0 113.7 L238.2 110.2 L231.5 106.8 L224.8 103.4 L218.3 100.2 L211.8 97.3 L205.3 94.7 L198.8 92.5 L192.2 90.6 L185.6 89.0 L178.8 87.7 L172.0 86.5 L165.1 85.3 L158.2 84.1 L151.2 82.7 L144.2 80.9 L137.2 78.9 L130.3 76.5 L123.5 73.8 L116.7 70.8 L109.9 67.8 L103.1 64.7 L96.2 61.8 L89.1 59.1 L81.8 56.7 L74.4 54.8 L66.8 53.2 L59.0 52.1 L51.1 51.4 L43.1 51.0 L35.2 50.8 L27.2 50.7 L19.2 50.6 L11.3 50.4 L3.4 50.0" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 127.5 L279.4 126.9 L271.7 125.5 L264.0 123.5 L256.3 121.1 L248.6 118.4 L241.0 115.5 L233.4 112.6 L225.9 109.7 L218.4 106.9 L211.0 104.4 L203.6 102.1 L196.2 100.1 L188.7 98.4 L181.1 96.9 L173.5 95.6 L165.8 94.2 L158.1 92.7 L150.3 91.0 L142.7 88.8 L135.2 86.2 L127.9 83.2 L120.9 79.8 L114.0 76.2 L107.3 72.5 L100.7 68.8 L94.2 65.3 L87.5 62.2 L80.8 59.3 L74.0 57.0 L67.1 55.0 L60.0 53.6 L52.9 52.6 L45.7 51.9 L38.5 51.6 L31.3 51.5 L24.1 51.5 L16.9 51.5 L9.7 51.5 L2.6 51.4" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 127.8 L279.9 127.2 L272.8 125.9 L265.8 124.0 L258.8 121.6 L251.9 119.0 L245.1 116.2 L238.3 113.3 L231.6 110.4 L225.1 107.6 L218.5 104.9 L212.1 102.5 L205.6 100.4 L199.1 98.5 L192.6 97.0 L185.9 95.8 L179.2 94.8 L172.3 93.9 L165.2 93.1 L158.1 92.3 L150.8 91.2 L143.5 89.9 L136.2 88.2 L129.0 86.1 L121.8 83.7 L114.8 81.1 L107.8 78.4 L100.8 75.6 L93.9 73.0 L86.9 70.7 L79.8 68.7 L72.7 67.2 L65.4 66.0 L58.0 65.3 L50.5 65.0 L42.9 65.0 L35.3 65.2 L27.6 65.4 L19.9 65.6 L12.1 65.8 L4.2 65.7" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M287.0 128.0 L279.0 127.5 L270.9 126.4 L262.9 124.8 L254.9 122.9 L246.9 120.7 L239.0 118.5 L231.2 116.2 L223.4 113.9 L215.8 111.8 L208.1 109.8 L200.5 108.0 L192.9 106.5 L185.2 105.1 L177.5 103.9 L169.7 102.7 L161.8 101.4 L153.9 99.9 L146.0 98.1 L138.3 95.8 L130.7 93.1 L123.5 90.0 L116.4 86.6 L109.7 83.1 L103.2 79.6 L96.9 76.1 L90.7 73.0 L84.5 70.2 L78.3 67.8 L72.0 65.9 L65.7 64.4 L59.2 63.5 L52.8 62.9 L46.2 62.8 L39.6 62.9 L33.0 63.2 L26.3 63.8 L19.5 64.3 L12.7 64.9 L5.8 65.4 L-1.1 65.9" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 128.2 L279.9 127.7 L272.8 126.6 L265.8 125.1 L258.8 123.2 L251.8 121.1 L244.9 118.9 L238.1 116.6 L231.3 114.4 L224.5 112.2 L217.8 110.2 L211.0 108.5 L204.3 107.0 L197.4 105.8 L190.4 104.8 L183.3 104.1 L176.0 103.6 L168.4 103.2 L160.7 102.7 L152.8 102.1 L144.7 101.2 L136.5 100.0 L128.4 98.3 L120.3 96.2 L112.4 93.8 L104.7 91.2 L97.1 88.7 L89.7 86.2 L82.4 84.1 L75.2 82.3 L68.0 80.9 L60.8 80.0 L53.6 79.4 L46.3 79.2 L39.0 79.1 L31.6 79.2 L24.1 79.3 L16.6 79.4 L9.0 79.4 L1.4 79.2" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 128.5 L279.9 128.0 L272.8 127.0 L265.8 125.6 L258.8 124.0 L251.8 122.1 L245.0 120.2 L238.1 118.1 L231.4 116.2 L224.6 114.3 L217.9 112.6 L211.2 111.0 L204.4 109.7 L197.6 108.7 L190.6 107.9 L183.5 107.4 L176.2 107.0 L168.6 106.8 L160.8 106.5 L152.8 106.0 L144.6 105.4 L136.3 104.3 L128.0 102.8 L119.7 101.0 L111.6 98.9 L103.7 96.6 L95.9 94.3 L88.3 92.1 L80.9 90.3 L73.5 88.8 L66.2 87.7 L59.0 87.0 L51.7 86.7 L44.4 86.6 L37.0 86.7 L29.5 86.9 L22.0 87.1 L14.4 87.2 L6.7 87.2 L-1.0 87.1" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M287.0 128.7 L279.8 128.2 L272.5 127.4 L265.3 126.2 L258.0 124.9 L250.8 123.4 L243.5 121.9 L236.3 120.4 L229.0 119.0 L221.7 117.7 L214.4 116.5 L207.0 115.6 L199.5 114.9 L191.9 114.5 L184.0 114.3 L175.9 114.1 L167.6 114.1 L159.0 113.9 L150.1 113.5 L141.1 112.8 L132.0 111.6 L122.9 109.9 L114.0 107.8 L105.4 105.4 L97.1 102.9 L89.2 100.4 L81.5 98.1 L74.0 96.2 L66.7 94.6 L59.5 93.4 L52.4 92.5 L45.4 91.9 L38.4 91.5 L31.3 91.3 L24.3 91.1 L17.1 91.0 L10.0 90.8 L2.8 90.5" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 128.9 L279.6 128.5 L272.3 127.8 L264.8 126.9 L257.4 125.8 L250.0 124.7 L242.5 123.5 L235.0 122.4 L227.6 121.3 L220.1 120.4 L212.5 119.7 L204.8 119.2 L197.0 118.9 L189.0 118.7 L180.8 118.7 L172.4 118.8 L163.7 118.9 L154.7 118.7 L145.5 118.3 L136.2 117.4 L126.9 116.1 L117.7 114.3 L108.8 112.1 L100.2 109.7 L91.9 107.3 L84.0 105.0 L76.3 103.0 L68.9 101.3 L61.7 99.9 L54.7 98.9 L47.7 98.1 L40.8 97.7 L33.8 97.3 L26.9 97.1 L20.0 97.0 L13.0 96.8 L5.9 96.6 L-1.1 96.4" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 129.1 L279.7 128.8 L272.6 128.1 L265.4 127.3 L258.4 126.3 L251.4 125.2 L244.5 124.1 L237.6 122.9 L230.8 121.8 L224.0 120.8 L217.2 119.9 L210.5 119.1 L203.6 118.6 L196.7 118.2 L189.6 118.0 L182.3 118.0 L174.8 118.1 L167.0 118.2 L158.9 118.3 L150.6 118.3 L142.0 118.1 L133.3 117.5 L124.5 116.6 L115.7 115.4 L107.1 114.0 L98.6 112.6 L90.4 111.2 L82.3 110.1 L74.4 109.2 L66.6 108.7 L59.0 108.4 L51.3 108.5 L43.7 108.7 L36.0 109.1 L28.2 109.5 L20.4 109.8 L12.6 110.1 L4.6 110.3" stroke="url(#cometTint)" stroke-width="9" opacity=".10"/><path d="M287.0 129.4 L278.8 129.1 L270.6 128.8 L262.5 128.4 L254.5 127.9 L246.5 127.5 L238.5 127.0 L230.7 126.6 L222.9 126.2 L215.2 125.8 L207.4 125.5 L199.7 125.3 L191.9 125.1 L184.0 125.0 L175.9 125.0 L167.8 124.8 L159.4 124.5 L150.9 124.1 L142.4 123.3 L133.8 122.2 L125.2 120.7 L116.8 118.9 L108.7 116.9 L100.8 114.8 L93.2 112.8 L85.9 111.0 L78.8 109.5 L72.0 108.3 L65.2 107.6 L58.6 107.2 L52.0 107.1 L45.4 107.3 L38.8 107.8 L32.1 108.4 L25.3 109.1 L18.4 109.9 L11.4 110.7 L4.2 111.6" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/><path d="M287.0 129.6 L279.1 129.3 L271.2 129.1 L263.4 128.8 L255.7 128.4 L248.2 128.1 L240.7 127.7 L233.3 127.3 L226.0 126.9 L218.8 126.6 L211.6 126.3 L204.3 126.1 L197.1 126.0 L189.8 126.0 L182.3 126.1 L174.7 126.2 L166.9 126.3 L158.9 126.3 L150.7 126.2 L142.4 125.8 L134.0 125.2 L125.5 124.3 L117.1 123.2 L108.8 121.9 L100.7 120.6 L92.8 119.4 L85.1 118.5 L77.6 117.8 L70.3 117.4 L63.0 117.4 L55.7 117.6 L48.5 118.2 L41.2 118.9 L33.9 119.7 L26.4 120.7 L18.8 121.6 L11.2 122.5 L3.4 123.3" stroke="url(#cometTint)" stroke-width="5" opacity=".10"/></g>
+    <g class="comet-wake" fill="none"><path d="M287.0 126.4 L279.5 125.6 L271.9 123.6 L264.4 120.7 L256.8 117.1 L249.3 113.0 L241.8 108.5 L234.5 104.0 L227.3 99.4 L220.2 95.0 L213.2 90.9 L206.2 87.1 L199.3 83.7 L192.4 80.6 L185.4 77.9 L178.5 75.4 L171.5 73.1 L164.6 70.7 L157.8 68.2 L151.0 65.5 L144.3 62.4 L137.7 59.1 L131.1 55.5 L124.5 51.7 L117.8 47.8 L110.9 43.8 L103.9 39.9 L96.6 36.2 L89.0 32.8 L81.2 29.7 L73.2 27.0 L65.0 24.6 L56.7 22.7 L48.4 21.1 L40.1 19.8 L32.0 18.7 L24.0 17.8 L16.1 16.9 L8.3 16.0 L0.7 15.2" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 126.6 L279.4 125.9 L272.0 124.0 L264.6 121.2 L257.4 117.7 L250.3 113.7 L243.4 109.3 L236.6 104.8 L230.1 100.2 L223.8 95.7 L217.6 91.4 L211.6 87.4 L205.7 83.7 L199.8 80.3 L194.0 77.4 L188.2 74.7 L182.4 72.3 L176.6 70.1 L170.7 68.0 L164.9 66.0 L159.2 63.9 L153.4 61.6 L147.7 59.3 L142.0 56.8 L136.2 54.1 L130.4 51.3 L124.5 48.4 L118.4 45.5 L112.1 42.6 L105.6 39.8 L98.8 37.3 L91.6 35.0 L84.1 33.0 L76.4 31.4 L68.3 30.3 L60.0 29.5 L51.5 29.2 L42.9 29.1 L34.3 29.3 L25.7 29.7 L17.1 29.9 L8.6 30.1 L0.1 30.1" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 126.9 L279.3 126.1 L271.6 124.4 L263.9 121.8 L256.1 118.7 L248.5 115.1 L240.8 111.3 L233.3 107.4 L225.9 103.5 L218.6 99.8 L211.3 96.3 L204.1 93.1 L197.0 90.3 L189.8 87.8 L182.7 85.5 L175.5 83.5 L168.4 81.4 L161.3 79.4 L154.3 77.1 L147.4 74.5 L140.6 71.6 L133.9 68.3 L127.4 64.7 L121.0 61.0 L114.5 57.1 L108.0 53.2 L101.4 49.4 L94.5 45.8 L87.4 42.6 L80.1 39.7 L72.6 37.2 L64.9 35.2 L57.1 33.6 L49.2 32.4 L41.4 31.6 L33.5 31.0 L25.8 30.5 L18.1 30.1 L10.6 29.8 L3.1 29.4" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 127.1 L279.3 126.4 L271.8 124.7 L264.3 122.3 L257.0 119.3 L249.8 115.8 L242.8 112.1 L236.0 108.1 L229.3 104.2 L222.9 100.3 L216.6 96.6 L210.4 93.2 L204.3 90.1 L198.3 87.2 L192.3 84.8 L186.4 82.6 L180.4 80.6 L174.5 78.8 L168.6 77.1 L162.6 75.3 L156.8 73.5 L150.9 71.6 L145.1 69.4 L139.4 67.1 L133.7 64.6 L127.9 61.9 L122.2 59.1 L116.4 56.3 L110.4 53.5 L104.2 50.9 L97.8 48.4 L91.1 46.2 L84.1 44.3 L76.9 42.9 L69.3 41.9 L61.5 41.3 L53.6 41.2 L45.5 41.4 L37.4 42.0 L29.2 42.6 L20.9 43.3 L12.7 44.0 L4.4 44.4" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 127.3 L279.9 126.7 L272.8 125.1 L265.8 122.9 L258.8 120.1 L251.8 117.0 L245.0 113.7 L238.2 110.2 L231.5 106.8 L224.8 103.4 L218.3 100.2 L211.8 97.3 L205.3 94.7 L198.8 92.5 L192.2 90.6 L185.6 89.0 L178.8 87.7 L172.0 86.5 L165.1 85.3 L158.2 84.1 L151.2 82.7 L144.2 80.9 L137.2 78.9 L130.3 76.5 L123.5 73.8 L116.7 70.8 L109.9 67.8 L103.1 64.7 L96.2 61.8 L89.1 59.1 L81.8 56.7 L74.4 54.8 L66.8 53.2 L59.0 52.1 L51.1 51.4 L43.1 51.0 L35.2 50.8 L27.2 50.7 L19.2 50.6 L11.3 50.4 L3.4 50.0" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 127.5 L279.4 126.9 L271.7 125.5 L264.0 123.5 L256.3 121.1 L248.6 118.4 L241.0 115.5 L233.4 112.6 L225.9 109.7 L218.4 106.9 L211.0 104.4 L203.6 102.1 L196.2 100.1 L188.7 98.4 L181.1 96.9 L173.5 95.6 L165.8 94.2 L158.1 92.7 L150.3 91.0 L142.7 88.8 L135.2 86.2 L127.9 83.2 L120.9 79.8 L114.0 76.2 L107.3 72.5 L100.7 68.8 L94.2 65.3 L87.5 62.2 L80.8 59.3 L74.0 57.0 L67.1 55.0 L60.0 53.6 L52.9 52.6 L45.7 51.9 L38.5 51.6 L31.3 51.5 L24.1 51.5 L16.9 51.5 L9.7 51.5 L2.6 51.4" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 127.8 L279.9 127.2 L272.8 125.9 L265.8 124.0 L258.8 121.6 L251.9 119.0 L245.1 116.2 L238.3 113.3 L231.6 110.4 L225.1 107.6 L218.5 104.9 L212.1 102.5 L205.6 100.4 L199.1 98.5 L192.6 97.0 L185.9 95.8 L179.2 94.8 L172.3 93.9 L165.2 93.1 L158.1 92.3 L150.8 91.2 L143.5 89.9 L136.2 88.2 L129.0 86.1 L121.8 83.7 L114.8 81.1 L107.8 78.4 L100.8 75.6 L93.9 73.0 L86.9 70.7 L79.8 68.7 L72.7 67.2 L65.4 66.0 L58.0 65.3 L50.5 65.0 L42.9 65.0 L35.3 65.2 L27.6 65.4 L19.9 65.6 L12.1 65.8 L4.2 65.7" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 128.0 L279.0 127.5 L270.9 126.4 L262.9 124.8 L254.9 122.9 L246.9 120.7 L239.0 118.5 L231.2 116.2 L223.4 113.9 L215.8 111.8 L208.1 109.8 L200.5 108.0 L192.9 106.5 L185.2 105.1 L177.5 103.9 L169.7 102.7 L161.8 101.4 L153.9 99.9 L146.0 98.1 L138.3 95.8 L130.7 93.1 L123.5 90.0 L116.4 86.6 L109.7 83.1 L103.2 79.6 L96.9 76.1 L90.7 73.0 L84.5 70.2 L78.3 67.8 L72.0 65.9 L65.7 64.4 L59.2 63.5 L52.8 62.9 L46.2 62.8 L39.6 62.9 L33.0 63.2 L26.3 63.8 L19.5 64.3 L12.7 64.9 L5.8 65.4 L-1.1 65.9" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 128.2 L279.9 127.7 L272.8 126.6 L265.8 125.1 L258.8 123.2 L251.8 121.1 L244.9 118.9 L238.1 116.6 L231.3 114.4 L224.5 112.2 L217.8 110.2 L211.0 108.5 L204.3 107.0 L197.4 105.8 L190.4 104.8 L183.3 104.1 L176.0 103.6 L168.4 103.2 L160.7 102.7 L152.8 102.1 L144.7 101.2 L136.5 100.0 L128.4 98.3 L120.3 96.2 L112.4 93.8 L104.7 91.2 L97.1 88.7 L89.7 86.2 L82.4 84.1 L75.2 82.3 L68.0 80.9 L60.8 80.0 L53.6 79.4 L46.3 79.2 L39.0 79.1 L31.6 79.2 L24.1 79.3 L16.6 79.4 L9.0 79.4 L1.4 79.2" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 128.5 L279.9 128.0 L272.8 127.0 L265.8 125.6 L258.8 124.0 L251.8 122.1 L245.0 120.2 L238.1 118.1 L231.4 116.2 L224.6 114.3 L217.9 112.6 L211.2 111.0 L204.4 109.7 L197.6 108.7 L190.6 107.9 L183.5 107.4 L176.2 107.0 L168.6 106.8 L160.8 106.5 L152.8 106.0 L144.6 105.4 L136.3 104.3 L128.0 102.8 L119.7 101.0 L111.6 98.9 L103.7 96.6 L95.9 94.3 L88.3 92.1 L80.9 90.3 L73.5 88.8 L66.2 87.7 L59.0 87.0 L51.7 86.7 L44.4 86.6 L37.0 86.7 L29.5 86.9 L22.0 87.1 L14.4 87.2 L6.7 87.2 L-1.0 87.1" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 128.7 L279.8 128.2 L272.5 127.4 L265.3 126.2 L258.0 124.9 L250.8 123.4 L243.5 121.9 L236.3 120.4 L229.0 119.0 L221.7 117.7 L214.4 116.5 L207.0 115.6 L199.5 114.9 L191.9 114.5 L184.0 114.3 L175.9 114.1 L167.6 114.1 L159.0 113.9 L150.1 113.5 L141.1 112.8 L132.0 111.6 L122.9 109.9 L114.0 107.8 L105.4 105.4 L97.1 102.9 L89.2 100.4 L81.5 98.1 L74.0 96.2 L66.7 94.6 L59.5 93.4 L52.4 92.5 L45.4 91.9 L38.4 91.5 L31.3 91.3 L24.3 91.1 L17.1 91.0 L10.0 90.8 L2.8 90.5" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 128.9 L279.6 128.5 L272.3 127.8 L264.8 126.9 L257.4 125.8 L250.0 124.7 L242.5 123.5 L235.0 122.4 L227.6 121.3 L220.1 120.4 L212.5 119.7 L204.8 119.2 L197.0 118.9 L189.0 118.7 L180.8 118.7 L172.4 118.8 L163.7 118.9 L154.7 118.7 L145.5 118.3 L136.2 117.4 L126.9 116.1 L117.7 114.3 L108.8 112.1 L100.2 109.7 L91.9 107.3 L84.0 105.0 L76.3 103.0 L68.9 101.3 L61.7 99.9 L54.7 98.9 L47.7 98.1 L40.8 97.7 L33.8 97.3 L26.9 97.1 L20.0 97.0 L13.0 96.8 L5.9 96.6 L-1.1 96.4" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 129.1 L279.7 128.8 L272.6 128.1 L265.4 127.3 L258.4 126.3 L251.4 125.2 L244.5 124.1 L237.6 122.9 L230.8 121.8 L224.0 120.8 L217.2 119.9 L210.5 119.1 L203.6 118.6 L196.7 118.2 L189.6 118.0 L182.3 118.0 L174.8 118.1 L167.0 118.2 L158.9 118.3 L150.6 118.3 L142.0 118.1 L133.3 117.5 L124.5 116.6 L115.7 115.4 L107.1 114.0 L98.6 112.6 L90.4 111.2 L82.3 110.1 L74.4 109.2 L66.6 108.7 L59.0 108.4 L51.3 108.5 L43.7 108.7 L36.0 109.1 L28.2 109.5 L20.4 109.8 L12.6 110.1 L4.6 110.3" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 129.4 L278.8 129.1 L270.6 128.8 L262.5 128.4 L254.5 127.9 L246.5 127.5 L238.5 127.0 L230.7 126.6 L222.9 126.2 L215.2 125.8 L207.4 125.5 L199.7 125.3 L191.9 125.1 L184.0 125.0 L175.9 125.0 L167.8 124.8 L159.4 124.5 L150.9 124.1 L142.4 123.3 L133.8 122.2 L125.2 120.7 L116.8 118.9 L108.7 116.9 L100.8 114.8 L93.2 112.8 L85.9 111.0 L78.8 109.5 L72.0 108.3 L65.2 107.6 L58.6 107.2 L52.0 107.1 L45.4 107.3 L38.8 107.8 L32.1 108.4 L25.3 109.1 L18.4 109.9 L11.4 110.7 L4.2 111.6" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/><path d="M287.0 129.6 L279.1 129.3 L271.2 129.1 L263.4 128.8 L255.7 128.4 L248.2 128.1 L240.7 127.7 L233.3 127.3 L226.0 126.9 L218.8 126.6 L211.6 126.3 L204.3 126.1 L197.1 126.0 L189.8 126.0 L182.3 126.1 L174.7 126.2 L166.9 126.3 L158.9 126.3 L150.7 126.2 L142.4 125.8 L134.0 125.2 L125.5 124.3 L117.1 123.2 L108.8 121.9 L100.7 120.6 L92.8 119.4 L85.1 118.5 L77.6 117.8 L70.3 117.4 L63.0 117.4 L55.7 117.6 L48.5 118.2 L41.2 118.9 L33.9 119.7 L26.4 120.7 L18.8 121.6 L11.2 122.5 L3.4 123.3" stroke="url(#cometTint)" stroke-width=".7" opacity=".22"/></g>
+    <g class="wake-still"><g class="wake-still-cell" data-date="2026-07-19" opacity="0.126">
       <rect x="19" y="-1" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
       <rect x="20" y="0" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-07-18" opacity="0.111">
+    </g><g class="wake-still-cell" data-date="2026-07-24" opacity="0.047">
+      <rect x="19" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
+      <rect x="20" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
+    </g><g class="wake-still-cell" data-date="2026-07-25" opacity="0.026">
       <rect x="19" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
       <rect x="20" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-07-24" opacity="0.143">
-      <rect x="39" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-      <rect x="40" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-07-25" opacity="0.118">
+    </g><g class="wake-still-cell" data-date="2026-08-01" opacity="0.101">
       <rect x="39" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
       <rect x="40" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-08-09" opacity="0.044">
-      <rect x="99" y="-1" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-      <rect x="100" y="0" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-08-19" opacity="0.029">
-      <rect x="119" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-      <rect x="120" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-08-22" opacity="0.108">
-      <rect x="119" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-      <rect x="120" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-09-12" opacity="0.225">
-      <rect x="179" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-      <rect x="180" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-09-18" opacity="0.245">
-      <rect x="199" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-      <rect x="200" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-09-19" opacity="0.081">
-      <rect x="199" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-      <rect x="200" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    </g><g class="wake-still-cell" data-date="2026-09-30" opacity="0.139">
-      <rect x="239" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-      <rect x="240" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
+    </g><g class="wake-still-cell" data-date="2026-08-12" opacity="0.081">
+      <rect x="79" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
+      <rect x="80" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
     </g></g>
-    <g class="motion"><g class="wake-cell" data-date="2026-07-05" data-flow="0" opacity="0">
+    <g class="motion"><g class="wake-cell" data-date="2026-07-12" data-flow="0" opacity="0">
     <rect x="-1" y="-1" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="0" y="0" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.200;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-3.475s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-06" data-flow="2" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.192;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-3.655s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-13" data-flow="1" opacity="0">
     <rect x="-1" y="19" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="0" y="20" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.262;0;0" keyTimes="0;.015;.055;.16;1" dur="6.637s" begin="-2.099s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-07" data-flow="4" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.261;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-4.338s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-14" data-flow="5" opacity="0">
     <rect x="-1" y="39" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="0" y="40" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.221;0;0" keyTimes="0;.015;.055;.16;1" dur="6.274s" begin="-1.629s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-08" data-flow="7" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.218;0;0" keyTimes="0;.015;.055;.16;1" dur="7.264s" begin="-3.115s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-15" data-flow="7" opacity="0">
     <rect x="-1" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="0" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.289;0;0" keyTimes="0;.015;.055;.16;1" dur="5.921s" begin="-4.203s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-09" data-flow="10" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.289;0;0" keyTimes="0;.015;.055;.16;1" dur="5.921s" begin="-4.341s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-16" data-flow="9" opacity="0">
     <rect x="-1" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="0" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.223;0;0" keyTimes="0;.015;.055;.16;1" dur="5.927s" begin="-1.715s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-10" data-flow="12" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.223;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-5.704s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-17" data-flow="12" opacity="0">
     <rect x="-1" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="0" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.206;0;0" keyTimes="0;.015;.055;.16;1" dur="6.547s" begin="-1.416s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-11" data-flow="14" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.203;0;0" keyTimes="0;.015;.055;.16;1" dur="6.547s" begin="-1.248s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-18" data-flow="14" opacity="0">
     <rect x="-1" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="0" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.281;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-3.335s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-12" data-flow="0" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.273;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-3.346s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-19" data-flow="0" opacity="0">
     <rect x="19" y="-1" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="20" y="0" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.197;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-0.346s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-13" data-flow="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.184;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-0.376s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-20" data-flow="1" opacity="0">
     <rect x="19" y="19" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="20" y="20" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.226;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-6.524s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-14" data-flow="5" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.225;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-6.552s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-21" data-flow="4" opacity="0">
     <rect x="19" y="39" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="20" y="40" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.235;0;0" keyTimes="0;.015;.055;.16;1" dur="7.264s" begin="-5.409s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-16" data-flow="9" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.237;0;0" keyTimes="0;.015;.055;.16;1" dur="6.274s" begin="-3.548s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-23" data-flow="9" opacity="0">
     <rect x="19" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="20" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.238;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-1.293s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-17" data-flow="13" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.239;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-1.485s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-24" data-flow="12" opacity="0">
     <rect x="19" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="20" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.278;0;0" keyTimes="0;.015;.055;.16;1" dur="7.260s" begin="-3.885s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-18" data-flow="14" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.282;0;0" keyTimes="0;.015;.055;.16;1" dur="6.547s" begin="-0.156s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-25" data-flow="14" opacity="0">
     <rect x="19" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="20" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.217;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-0.302s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-19" data-flow="0" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.215;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-0.154s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-26" data-flow="0" opacity="0">
     <rect x="39" y="-1" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="40" y="0" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.243;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-6.180s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-22" data-flow="6" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.221;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-6.428s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-29" data-flow="6" opacity="0">
     <rect x="39" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="40" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.221;0;0" keyTimes="0;.015;.055;.16;1" dur="6.780s" begin="-6.065s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-23" data-flow="9" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.224;0;0" keyTimes="0;.015;.055;.16;1" dur="6.780s" begin="-6.143s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-30" data-flow="9" opacity="0">
     <rect x="39" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="40" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.258;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-4.884s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-24" data-flow="12" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.258;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-4.942s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-07-31" data-flow="13" opacity="0">
     <rect x="39" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="40" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.299;0;0" keyTimes="0;.015;.055;.16;1" dur="6.547s" begin="-0.607s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-25" data-flow="14" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.298;0;0" keyTimes="0;.015;.055;.16;1" dur="7.260s" begin="-4.255s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-01" data-flow="14" opacity="0">
     <rect x="39" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="40" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.241;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-0.654s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-26" data-flow="0" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.235;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-0.713s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-02" data-flow="0" opacity="0">
     <rect x="59" y="-1" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="60" y="0" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.197;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-1.081s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-27" data-flow="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.173;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-1.354s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-03" data-flow="1" opacity="0">
     <rect x="59" y="19" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="60" y="20" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.302;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-1.862s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-28" data-flow="5" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.310;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-2.114s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-04" data-flow="4" opacity="0">
     <rect x="59" y="39" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="60" y="40" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.228;0;0" keyTimes="0;.015;.055;.16;1" dur="7.264s" begin="-6.232s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-29" data-flow="6" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.225;0;0" keyTimes="0;.015;.055;.16;1" dur="6.274s" begin="-4.386s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-05" data-flow="6" opacity="0">
     <rect x="59" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="60" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.291;0;0" keyTimes="0;.015;.055;.16;1" dur="6.780s" begin="-1.467s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-30" data-flow="9" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.297;0;0" keyTimes="0;.015;.055;.16;1" dur="6.780s" begin="-1.403s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-06" data-flow="9" opacity="0">
     <rect x="59" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="60" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.329;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-5.331s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-07-31" data-flow="12" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.336;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-5.412s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-07" data-flow="12" opacity="0">
     <rect x="59" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="60" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.336;0;0" keyTimes="0;.015;.055;.16;1" dur="6.547s" begin="-6.007s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-04" data-flow="3" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.342;0;0" keyTimes="0;.015;.055;.16;1" dur="6.547s" begin="-5.953s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-11" data-flow="3" opacity="0">
     <rect x="79" y="39" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="80" y="40" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.325;0;0" keyTimes="0;.015;.055;.16;1" dur="6.948s" begin="-2.841s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-05" data-flow="6" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.336;0;0" keyTimes="0;.015;.055;.16;1" dur="6.948s" begin="-2.934s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-12" data-flow="6" opacity="0">
     <rect x="79" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="80" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.243;0;0" keyTimes="0;.015;.055;.16;1" dur="6.780s" begin="-0.093s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-06" data-flow="9" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.247;0;0" keyTimes="0;.015;.055;.16;1" dur="6.780s" begin="-0.220s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-13" data-flow="8" opacity="0">
     <rect x="79" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="80" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.334;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-2.496s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-07" data-flow="12" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.339;0;0" keyTimes="0;.015;.055;.16;1" dur="6.880s" begin="-3.060s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-14" data-flow="13" opacity="0">
     <rect x="79" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="80" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.326;0;0" keyTimes="0;.015;.055;.16;1" dur="6.547s" begin="-6.343s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-08" data-flow="14" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.328;0;0" keyTimes="0;.015;.055;.16;1" dur="7.260s" begin="-3.479s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-15" data-flow="14" opacity="0">
     <rect x="79" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="80" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.312;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-3.478s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-09" data-flow="0" opacity="0">
-    <rect x="99" y="-1" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="100" y="0" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.193;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-0.198s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-13" data-flow="8" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.316;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-3.620s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-17" data-flow="1" opacity="0">
+    <rect x="99" y="19" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
+    <rect x="100" y="20" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
+    <animate attributeName="opacity" values="0;0;0.297;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-4.832s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-20" data-flow="8" opacity="0">
     <rect x="99" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="100" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.267;0;0" keyTimes="0;.015;.055;.16;1" dur="6.880s" begin="-3.408s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-14" data-flow="11" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.267;0;0" keyTimes="0;.015;.055;.16;1" dur="6.880s" begin="-3.432s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-21" data-flow="10" opacity="0">
     <rect x="99" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="100" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.247;0;0" keyTimes="0;.015;.055;.16;1" dur="7.282s" begin="-7.023s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-18" data-flow="0" opacity="0">
-    <rect x="119" y="39" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="120" y="40" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.349;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-6.383s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-19" data-flow="4" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.252;0;0" keyTimes="0;.015;.055;.16;1" dur="5.927s" begin="-2.245s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-26" data-flow="2" opacity="0">
     <rect x="119" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="120" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.353;0;0" keyTimes="0;.015;.055;.16;1" dur="6.274s" begin="-0.932s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-20" data-flow="7" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.356;0;0" keyTimes="0;.015;.055;.16;1" dur="6.637s" begin="-4.824s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-27" data-flow="6" opacity="0">
     <rect x="119" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="120" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.363;0;0" keyTimes="0;.015;.055;.16;1" dur="5.921s" begin="-5.183s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-21" data-flow="10" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.363;0;0" keyTimes="0;.015;.055;.16;1" dur="6.780s" begin="-1.259s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-28" data-flow="9" opacity="0">
     <rect x="119" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="120" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.271;0;0" keyTimes="0;.015;.055;.16;1" dur="5.927s" begin="-2.532s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-22" data-flow="14" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.364;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-5.208s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-08-29" data-flow="14" opacity="0">
     <rect x="119" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="120" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.361;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-0.846s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-25" data-flow="1" opacity="0">
-    <rect x="139" y="39" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="140" y="40" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.273;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-3.836s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-26" data-flow="2" opacity="0">
-    <rect x="139" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="140" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.371;0;0" keyTimes="0;.015;.055;.16;1" dur="6.637s" begin="-0.094s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-27" data-flow="6" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.272;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-2.662s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-03" data-flow="5" opacity="0">
     <rect x="139" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="140" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.348;0;0" keyTimes="0;.015;.055;.16;1" dur="6.780s" begin="-1.548s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-28" data-flow="9" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.370;0;0" keyTimes="0;.015;.055;.16;1" dur="7.264s" begin="-1.293s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-04" data-flow="9" opacity="0">
     <rect x="139" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="140" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.401;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-2.270s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-08-29" data-flow="14" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.334;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-4.000s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-05" data-flow="14" opacity="0">
     <rect x="139" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="140" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.338;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-6.610s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-02" data-flow="3" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.314;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-6.877s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-09" data-flow="1" opacity="0">
     <rect x="159" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="160" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.340;0;0" keyTimes="0;.015;.055;.16;1" dur="6.948s" begin="-4.536s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-03" data-flow="5" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.445;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-2.872s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-10" data-flow="4" opacity="0">
     <rect x="159" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="160" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.398;0;0" keyTimes="0;.015;.055;.16;1" dur="7.264s" begin="-1.528s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-04" data-flow="9" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.367;0;0" keyTimes="0;.015;.055;.16;1" dur="6.274s" begin="-3.442s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-11" data-flow="9" opacity="0">
     <rect x="159" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="160" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.413;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-2.609s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-08" data-flow="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.345;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-6.085s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-12" data-flow="14" opacity="0">
+    <rect x="159" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
+    <rect x="160" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
+    <animate attributeName="opacity" values="0;0;0.391;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-5.495s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-15" data-flow="1" opacity="0">
     <rect x="179" y="39" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="180" y="40" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.306;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-6.481s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-11" data-flow="9" opacity="0">
-    <rect x="179" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="180" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.413;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-1.515s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-12" data-flow="14" opacity="0">
-    <rect x="179" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="180" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.306;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-0.388s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-15" data-flow="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.203;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-6.641s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-16" data-flow="1" opacity="0">
+    <rect x="179" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
+    <rect x="180" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
+    <animate attributeName="opacity" values="0;0;0.442;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-6.934s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-17" data-flow="2" opacity="0">
+    <rect x="179" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
+    <rect x="180" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
+    <animate attributeName="opacity" values="0;0;0.437;0;0" keyTimes="0;.015;.055;.16;1" dur="6.637s" begin="-4.624s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-22" data-flow="1" opacity="0">
     <rect x="199" y="39" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="200" y="40" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.223;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-6.899s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-17" data-flow="2" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.140;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-1.647s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-23" data-flow="1" opacity="0">
+    <rect x="199" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
+    <rect x="200" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
+    <animate attributeName="opacity" values="0;0;0.268;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-5.425s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-24" data-flow="0" opacity="0">
     <rect x="199" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="200" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.325;0;0" keyTimes="0;.015;.055;.16;1" dur="6.637s" begin="-6.420s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-18" data-flow="9" opacity="0">
-    <rect x="199" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="200" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.347;0;0" keyTimes="0;.015;.055;.16;1" dur="6.277s" begin="-0.382s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-19" data-flow="14" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.430;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-6.816s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-09-26" data-flow="13" opacity="0">
     <rect x="199" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="200" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.330;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-0.900s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-23" data-flow="1" opacity="0">
-    <rect x="219" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="220" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.397;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-5.521s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-25" data-flow="7" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.340;0;0" keyTimes="0;.015;.055;.16;1" dur="7.260s" begin="-2.984s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-10-02" data-flow="5" opacity="0">
     <rect x="219" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="220" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.498;0;0" keyTimes="0;.015;.055;.16;1" dur="5.921s" begin="-5.618s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-26" data-flow="13" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.456;0;0" keyTimes="0;.015;.055;.16;1" dur="7.264s" begin="-5.011s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-10-03" data-flow="14" opacity="0">
     <rect x="219" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="220" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.394;0;0" keyTimes="0;.015;.055;.16;1" dur="7.260s" begin="-3.130s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-09-30" data-flow="1" opacity="0">
-    <rect x="239" y="59" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="240" y="60" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.188;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-0.395s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-10-01" data-flow="1" opacity="0">
-    <rect x="239" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="240" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.390;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-4.354s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-10-02" data-flow="5" opacity="0">
-    <rect x="239" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="240" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.537;0;0" keyTimes="0;.015;.055;.16;1" dur="7.264s" begin="-5.106s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-10-03" data-flow="14" opacity="0">
-    <rect x="239" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="240" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.500;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-5.309s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-10-08" data-flow="1" opacity="0">
-    <rect x="259" y="79" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
-    <rect x="260" y="80" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.350;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-6.522s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-10-09" data-flow="1" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.416;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-6.982s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-10-16" data-flow="0" opacity="0">
     <rect x="259" y="99" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="260" y="100" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.402;0;0" keyTimes="0;.015;.055;.16;1" dur="7.250s" begin="-6.704s" repeatCount="indefinite"/>
-  </g><g class="wake-cell" data-date="2026-10-10" data-flow="14" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.357;0;0" keyTimes="0;.015;.055;.16;1" dur="7.295s" begin="-1.099s" repeatCount="indefinite"/>
+  </g><g class="wake-cell" data-date="2026-10-17" data-flow="12" opacity="0">
     <rect x="259" y="119" width="18" height="18" rx="3.5" fill="#ff61b9" filter="url(#cellGlow)"/>
     <rect x="260" y="120" width="16" height="16" rx="3" fill="#ffb2e2" opacity=".74"/>
-    <animate attributeName="opacity" values="0;0;0.423;0;0" keyTimes="0;.015;.055;.16;1" dur="7.157s" begin="-4.035s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.494;0;0" keyTimes="0;.015;.055;.16;1" dur="6.547s" begin="-2.385s" repeatCount="indefinite"/>
   </g><g class="flow-particle" opacity="0">
     <ellipse rx="1.8" ry=".7" fill="#ffb9e7"/>
     <animateMotion dur="7.295s" begin="-3.475s" repeatCount="indefinite" rotate="auto"><mpath href="#flow-0"/></animateMotion>
@@ -674,7 +618,7 @@
     <animate attributeName="opacity" values="0;.78;.30;0" keyTimes="0;.05;.52;1" dur="7.157s" begin="-12.096s" repeatCount="indefinite"/>
   </g></g>
   </g>
-  <g id="comet-head" data-date="2026-10-24" data-count="7" transform="translate(308 128)">
+  <g id="comet-head" data-date="2026-10-24" data-count="7" transform="translate(288 128)">
     <title>Latest public commit day: 2026-10-24</title>
     <circle r="22.4" fill="url(#coma)"/>
     <circle class="motion" r="10.4" fill="none" stroke="#ffbce9" stroke-width=".7" opacity=".20"><animate attributeName="r" values="6.4;20" dur="2.7s" repeatCount="indefinite"/><animate attributeName="opacity" values=".45;0" dur="2.7s" repeatCount="indefinite"/></circle>
@@ -684,7 +628,7 @@
   </g>
   </g>
   <g font-family="Segoe UI,Arial,sans-serif" font-size="9" fill="#edb6cf">
-    <text x="20" y="220">Synced 2026-10-24 22:27 UTC+8</text>
+    <text x="20" y="220">Synced 2026-10-25 12:31 UTC+8</text>
     <text x="400" y="220" text-anchor="end" letter-spacing=".4">LATEST COMMIT · 2026-10-24</text>
   </g>
 </svg>
