@@ -58,11 +58,11 @@ Connect local inference to your own cloud gateway, with an OpenAI-compatible API
 A hybrid architecture experiment bringing convolutional embeddings, Mamba2, and Transformer together. Training workflows, ablations, and comparison results included — even the plot twists.
 
 <picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/activity-comet-tail-mobile-dark.svg?v=f7ba196a98d7">
-  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="assets/activity-comet-tail-mobile-light.svg?v=f7ba196a98d7">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-comet-tail-dark.svg?v=f7ba196a98d7">
-  <source media="(prefers-color-scheme: light)" srcset="assets/activity-comet-tail-light.svg?v=f7ba196a98d7">
-  <img src="assets/activity-comet-tail-light.svg?v=f7ba196a98d7" width="1000" alt="Small Commits, Long Tails: the latest commit is a comet's head, with a curling magenta wake flowing left and lighting older contribution cells.">
+  <source media="(prefers-color-scheme: dark) and (max-width: 640px)" srcset="assets/activity-comet-tail-mobile-dark.svg?v=afaf35e90745">
+  <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="assets/activity-comet-tail-mobile-light.svg?v=afaf35e90745">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-comet-tail-dark.svg?v=afaf35e90745">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-comet-tail-light.svg?v=afaf35e90745">
+  <img src="assets/activity-comet-tail-light.svg?v=afaf35e90745" width="1000" alt="Small Commits, Long Tails: the latest commit is a comet's head, with a curling magenta wake flowing left and lighting older contribution cells.">
 </picture>
 
 <details>
